@@ -10,3 +10,17 @@ Play around with stacking.  How does photoshop do?  Is there a better astro stac
 ## Streaming
 First phase is to just see what the camera is seeing.  I've got a simple script [here](https://github.com/gsalaman/simple_stream) that goes out port 8000.  And, I've got the hole in the router such 
 anyone can log into my comcast IP at port 8000 and it tunnels to the pi.
+
+Next step on the streaming app:  Add mqtt control to allow for adjusting the ISO on the fly.  Then I can add other params. Then, try adding an mqtt command to allow for me to take pics...that way I've got streaming and imaging at the same time...cool!!!
+
+## Real time image stacking?
+First internet searches don't reveal anything here.  Do I have to do it myself?  Python is awesome...
+
+# Hardware notes
+The HQ camera itself has a standard tripod mount, so I can use that for Afocal photograpy.  
+
+When I remove the lens, the outer cover fits into a 1.25" eyepiece...I think I can use that for prime focus.
+
+With both of these, the pi would be dangling by the camera cord.  I think I can go ghetto to start and put it in a little bag...but I'd also want batter.  Gonna see how much time I can get out of the portable pack.  
+
+Eventually I could add the touch screen on the Pi to remove the laptop.

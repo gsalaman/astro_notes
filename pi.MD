@@ -17,6 +17,10 @@ Next step on the streaming app:  Add mqtt control to allow for adjusting the ISO
 Can I use python and openCV to do this?  Check this link out:
 https://github.com/maitek/image_stacking
 
+Or, instead of CV, you can use scipi:
+http://prancer.physics.louisville.edu/astrowiki/index.php/Image_processing_with_Python_and_SciPy#Correcting_and_Combining_Images
+
+
 # Hardware notes
 The HQ camera itself has a standard tripod mount, so I can use that for Afocal photograpy.  
 

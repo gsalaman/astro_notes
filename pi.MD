@@ -14,7 +14,8 @@ anyone can log into my comcast IP at port 8000 and it tunnels to the pi.
 Next step on the streaming app:  Add mqtt control to allow for adjusting the ISO on the fly.  Then I can add other params. Then, try adding an mqtt command to allow for me to take pics...that way I've got streaming and imaging at the same time...cool!!!
 
 ## Real time image stacking?
-First internet searches don't reveal anything here.  Do I have to do it myself?  Python is awesome...
+Can I use python and openCV to do this?  Check this link out:
+https://github.com/maitek/image_stacking
 
 # Hardware notes
 The HQ camera itself has a standard tripod mount, so I can use that for Afocal photograpy.  

@@ -24,3 +24,12 @@ My math:  jupiter is around 50 arcseconds...so just under an arc minute.  That's
 I think inserting a 2x barlow will double that.
 
 Saturn is currently 18.3 arcseconds...about 1/3 of an arc-minute.   May be too small for prime focus.
+
+# iso
+Sensitivity of CCD sensor to light.  Lower iso is "darker" but less noise.
+
+# aperature
+Think of a piece of glass as a "slice" of space that is in focus.  The smaller the aperature, the thicker this piece of glass...but the less light coming in.
+For astro, since you are focused at infinity, it's cool to open up aperature as much as possible...but if you are doing standard photography, you want to define how much of your shot is "in focus" vs "out of focus.
+
+Usually expressed as "fstop"...a fraction.  F/16 means only 1/16th of the light is getting through...so bigger f numbers mean smaller light and "wider" range of focus.

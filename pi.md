@@ -31,4 +31,12 @@ With both of these, the pi would be dangling by the camera cord.  I think I can 
 Eventually I could add the touch screen on the Pi to remove the laptop.
 
 # Stack experiments
+## Autostack script
+Uses open CV.
+Take pictures via `raspistill -k -o test/test_image%04d.jpg -w 640 -h 480`
+Stack via `python3 auto_stack.py --method ECC test/ stack1.jpg`  
+Output was a little blurrier than originals...maybe because I was moving?
+Result took ~37 seconds for 11 pics.  That's a little slow, but dealable.
+
+Originally tried at 12 MP...autostack ran outta memory.
 

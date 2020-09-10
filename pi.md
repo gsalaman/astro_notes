@@ -29,3 +29,6 @@ When I remove the lens, the outer cover fits into a 1.25" eyepiece...I think I c
 With both of these, the pi would be dangling by the camera cord.  I think I can go ghetto to start and put it in a little bag...but I'd also want batter.  Gonna see how much time I can get out of the portable pack.  
 
 Eventually I could add the touch screen on the Pi to remove the laptop.
+
+# Stack experiments
+

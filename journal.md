@@ -1,6 +1,33 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 
+# 9-11-20 AM - More moon
+Woke up early, tried prime and afocal with the moon.  I had practiced setup the day before.  I kept ISO at 400...seemed to do well.
+
+Prime was super easy!  Take off the lens, stick the camera in the eyepiece, and off you go!  
+
+Tried a couple eyepieces with Afocal:
+* 8mm ethos:  good zoom.  May be what I use for planets
+* 17 nagler:  very similar to prime focus.
+* 26 nagler:  could get most of the moon in the camera FOV.  Didn't have the secondary shadow issues we had previously...maybe a better align?
+
+Didn't have time to try the 32mm nagler...but I bet that hits the whole moon.
+
+Keys to make Afocal easier:  
+* focus goes to infinity
+* aperature wide open
+
+Challenges:
+* Object centering.  Next time, do the full dual finder align.  That way you can track with the finder scope.
+* Stream lag:  very likely due to laptop and pi on different wifi networks.  This made tracking and focus harder
+* Focuser on the 10" isn't greaat.  Means use the feathertouch on the obsession when you *really* want good pics.
+* Pi attachment.  Battery works well, and can be on the table, but with the short camera ribbon, the pi needs to be on the scope.  Figure out a better mounting system, and/or buy a longer camera cable.
+
+Ideally, I think I want the streaming app to be able to take pics.  Look into dual streams for Picam and see if I can make that happen.  
+
+Can't use VNC for default camera preview, but could I make an app that opened a "view" window?  The only alternative is to go keyboard, mouse, and monitor with the pi...yuck!!!
+
+
 # 9-8-20 First experiments: Secondary mirror shadow?
 On our first experiements, we got secondary mirror shadow with the moon.  Setup was:
 * 10" orion 

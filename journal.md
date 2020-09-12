@@ -1,6 +1,21 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 
+# 9-11-20 PM - Planets and live stream tests
+Started with align & setup; streamed saturn first.  Worked well!  May want to do a focus on a bright star next time first.
+Iso 400 seemed to be the key. 
+
+Jupiter next...a little bigger.  ONLY played with ISO...longer ISO gave me moons, but washed out bands.  Turns out you want different settings for each...see optics notes.
+
+Tried afocal.  Tough to get the lens aligned in the dark, even though I'd practiced previously.  Many tries...unable to get decent image.  I think I need a better mount if I'm going this way.  Issues with current mount:
+* doesn't fit well around bigger (nagler) eyepieces
+* up-down-left-right hard to do in dark...and you need to be normal to the eyepiece plane.
+* ...and the pi keeps getting in the way...
+
+Tried prime on some deepsky...no good results.  I think I need to up the exposure time.  Add that to astro_streamer.py.
+
+Note seeing tonight was a 2...so we had a bunch of boiling.
+
 # 9-11-20 AM - More moon
 Woke up early, tried prime and afocal with the moon.  I had practiced setup the day before.  I kept ISO at 400...seemed to do well.
 

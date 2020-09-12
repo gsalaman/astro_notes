@@ -1,6 +1,13 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 
+# 9-12-20 More planet tests
+Goals:
+* See if paracorr reduces prime focus distance - jupiter?
+* See if barlow increases prime mag - saturn?
+* Play with new shutter speed to see if I can get a better pic of saturn and jupiter.  
+* Stretch goal:  will 1 second exposures get me dark sky?  Try with M13 or andromeda.
+
 # 9-11-20 PM - Planets and live stream tests
 Started with align & setup; streamed saturn first.  Worked well!  May want to do a focus on a bright star next time first.
 Iso 400 seemed to be the key. 

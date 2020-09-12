@@ -33,3 +33,12 @@ Think of a piece of glass as a "slice" of space that is in focus.  The smaller t
 For astro, since you are focused at infinity, it's cool to open up aperature as much as possible...but if you are doing standard photography, you want to define how much of your shot is "in focus" vs "out of focus.
 
 Usually expressed as "fstop"...a fraction.  F/16 means only 1/16th of the light is getting through...so bigger f numbers mean smaller light and "wider" range of focus.
+
+# Planetary settings
+From http://soggyastronomer.com/how-to-photograph-the-gas-giants-jupiter-and-saturn/
+
+* ISO = 800
+* Shutter speeds:
+  * Jupiter's moons:  1 sec
+  * Jupiter's bands:  1/20 sec (50 ms)
+  * Saturn: 1/5 sec (200 ms)

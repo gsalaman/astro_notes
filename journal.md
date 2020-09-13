@@ -2,11 +2,37 @@
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 
 # 9-12-20 More planet tests
+5/4/3
+
 Goals:
-* See if paracorr reduces prime focus distance - jupiter?
-* See if barlow increases prime mag - saturn?
-* Play with new shutter speed to see if I can get a better pic of saturn and jupiter.  
-* Stretch goal:  will 1 second exposures get me dark sky?  Try with M13 or andromeda.
+* See if paracorr reduces prime focus distance
+  * No.  Increases mag a little bit...and only one setting gave good focus.
+* See if barlow increases prime mag
+  * Maybe...barlow wouldn't focus.  Too much with the extender?  Besides, it's tough to track already.
+* Play with new shutter speed to see if I can get a better pic of saturn and jupiter. 
+  * YES!!!!!  1500us seems to be the best of jupiter bands.  I think I used 5 ms for saturn.
+* Stretch goal:  will 1 second exposures get me dark sky?
+  * Could *barely* get M13 at prime focus...if we're gonna do dark-sky, we need a tracking mount.  And probably equatorial.  Too much star-streak with prime focus.  Went to the 25mm plossi and afocal...1 sec had just a little streak, but anything more had way more. 
+  
+Also played around with trying to get the ring nebula...visual inspection showed it's *WAY* too dim for this method.  Double-double:  FOV was too narrow to really get this to pop.
+
+Afocal:  shine red light into telescope tube to help camera alignment!!!
+
+Note:  raspistill embeds ISO and ss in the jpg.  Want to modify astro_streamer to do the same.
+
+Next step:  play with stacking on some of those jupiter and saturn images.
+
+Future investigations/experiements:
+* JUST tripod darksky...long exposures.  
+* Mallincam research - tracking needed?
+* What would it take to add tracking to the obsession?
+* How much differenence does a bigger mirror make.
+* Afocal: 
+  * can I get the Q30 working?  Maybe try during the day.
+  * Build a better rig:
+    * fits on bigger eyepieces
+    * swing camera in and out for checking
+    * gear mechanism for fine adjustments?
 
 # 9-11-20 PM - Planets and live stream tests
 Started with align & setup; streamed saturn first.  Worked well!  May want to do a focus on a bright star next time first.

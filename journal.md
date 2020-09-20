@@ -20,21 +20,21 @@ Zooming in on the "telephone pole" top, I'm expecting about 2x the pixel density
 This is really an easy mode to set up and focus.  If I look at the cross-piece of the telephone pole, it's about 2000 pixels.  Put another way, going from no telescope to prime focus gives me a magnification of 2000/30 or about 67x.  And yes, prime from the streamer gives me a little less than 1000 pixels...so that 2:1 mapping is working.
 
 ### Mapping prime focus to actual mag
-Looking at a past 12mp pic of jupiter, it looks like it's 193 pixels.  Ephemerous data says jupiter is currently 21 arcseconds!!!  (not 40).  
-From here:  https://pds-rings.seti.org/tools/ephem2_jup.html
+Looking at a past 12mp pic of jupiter, it looks like it's 193 pixels.  Ephemerous data says jupiter is currently 42 arcseconds. 
+From here...note that this specifies *radius* rather than *diameter*  https://pds-rings.seti.org/tools/ephem2_jup.html
 
-Quick saturn check as well...8.7 arc seconds for the planet.  That's a little less than a factor of 3.
+Quick saturn check as well...17.4 arc seconds for the planet.  That's a little less than a factor of 3.
 https://pds-rings.seti.org/tools/ephem2_sat.html
 
-So, if that's all correct, my saturn diameter should be 193 * 8.7 / 21 = 80 pixels.  Check: yup!!!
+So, if that's all correct, my saturn diameter should be 193 * 17.4 / 42 = 80 pixels.  Check: yup!!!
 
-Which means 193 pixels / 21 arcseconds = 9.2 pixels per arcsecond.
+Which means 193 pixels / 42 arcseconds = 4.6 pixels per arcsecond.
 
-Okay, one more:  mars!  It's currently 10.5 arcseconds, so the pic should be 96 pixels.  Yup!!!  Note:  It's gonna grow to 11.28 arc seconds...but that's only gonna be a few pixels more.  
+Okay, one more:  mars!  It's currently 21 arcseconds, so the pic should be 96 pixels.  Yup!!!  Note:  It's gonna grow to 22.5 arc seconds...but that's only gonna be a few pixels more.  
 
-Last computation:  4056 pixels / 9.2 pixels per arcsecond means this view is 440 arcseconds long, by 330 arcseconds high.  The moon is about half a degree...or 30 arc minutes, or 1800 arcseconds.  That means it's more than 4x bigger than our prime focus...which seems to work out...
+Last computation:  4056 pixels / 4.6 pixels per arcsecond means this view is 882 arcseconds long, by 661 arcseconds high.  The moon is about half a degree...or 30 arc minutes, or 1800 arcseconds.  That means it's somewhere around 3x bigger than our prime focus...which seems to work out...
 
-But then this wiki site seems to contradict the saturn/juptier ephemerous sizes:
+This wiki site has various arcsecond sizes:
 https://en.wikipedia.org/wiki/Angular_diameter
 
 ### Barlowed prime

@@ -1,6 +1,18 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 
+# 9-20-20 Daytime Tests
+## First test: wide view
+Set up camera on the mini-tripod...and point it at something outside.  Goals:
+* What's the FOV?
+* How does the 1080p streamer shot compare with the full 12mp shot?
+### Full FOV
+
+### 1080p vs 12mp
+The 1080p image crops the top and bottom of the image...so you are losing some of your FOV.  The right-to-left is also slightly cropped.  That means, for telescope tracking purposes, the 1080p isn't the best mode to use for vid.  1080p is a 16:9 format; the 12mp is a 4:3.
+
+Zooming in on the "telephone pole" top, I'm expecting about 2x the pixel density for the 12mp (1920 vs 4048).  Telephone pole cross-piece is 30 pixels in the 12mp version, and only 14 pixels in the 1080p...which, yup, math works out.  
+
 # 9-12-20 More planet tests
 5/4/3
 

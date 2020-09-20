@@ -1,3 +1,5 @@
+http://star-www.st-and.ac.uk/~fv/webnotes/chapter7.htm
+
 Matlab code:
 ```
 function [Az El] = RaDec2AzEl(Ra,Dec,lat,lon,time)

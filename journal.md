@@ -6,12 +6,32 @@ These are going to be my "raw photography" running notes...in reverse cron order
 Set up camera on the mini-tripod...and point it at something outside.  Goals:
 * What's the FOV?
 * How does the 1080p streamer shot compare with the full 12mp shot?
-### Full FOV
+
 
 ### 1080p vs 12mp
 The 1080p image crops the top and bottom of the image...so you are losing some of your FOV.  The right-to-left is also slightly cropped.  That means, for telescope tracking purposes, the 1080p isn't the best mode to use for vid.  1080p is a 16:9 format; the 12mp is a 4:3.
 
-Zooming in on the "telephone pole" top, I'm expecting about 2x the pixel density for the 12mp (1920 vs 4048).  Telephone pole cross-piece is 30 pixels in the 12mp version, and only 14 pixels in the 1080p...which, yup, math works out.  
+Zooming in on the "telephone pole" top, I'm expecting about 2x the pixel density for the 12mp (1920 vs 4056).  Telephone pole cross-piece is 30 pixels in the 12mp version, and only 14 pixels in the 1080p...which, yup, math works out.  
+
+### Full FOV
+(gonna come back to this one)
+
+## Prime focus
+This is really an easy mode to set up and focus.  If I look at the cross-piece of the telephone pole, it's about 2000 pixels.  Put another way, going from no telescope to prime focus gives me a magnification of 2000/30 or about 67x.  And yes, prime from the streamer gives me a little less than 1000 pixels...so that 2:1 mapping is working.
+
+### Mapping prime focus to actual mag
+Looking at a past 12mp pic of jupiter, it looks like it's 193 pixels.  Ephemerous data says jupiter is currently 21 arcseconds!!!  (not 40).  
+From here:  https://pds-rings.seti.org/tools/ephem2_jup.html
+
+Quick saturn check as well...8.7 arc seconds for the planet.  That's a little less than a factor of 3.
+https://pds-rings.seti.org/tools/ephem2_sat.html
+
+So, if that's all correct, my saturn diameter should be 193 * 8.7 / 21 = 80 pixels.  Check: yup!!!
+
+Which means 193 pixels / 21 arcseconds = 9.2 pixels per arcsecond.
+
+Okay, one more:  mars!  It's currently 10.5 arcseconds, so the pic should be 96 pixels.  Yup!!!
+
 
 # 9-12-20 More planet tests
 5/4/3

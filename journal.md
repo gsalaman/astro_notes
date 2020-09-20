@@ -42,6 +42,45 @@ First, some math.  If the barlow is indeed 2x, the full crosspiece from the tele
 
 Note:  to get the barlow to focus, I had to back it out by about 1 pinky width (a little more than a centimeter?)  Also tracking is gonna be *tough* with this...and getting a crisp focus is also hard.  So only do this for really good seeing conditions.
 
+## Specific Afocal Eyepiece notes
+### General
+First, get a general focus with the eyepiece visually.  Make sure your camera aperature is mostly open...but may tweak later.  
+
+Lining up:  I found best results doing the left-right axis first, making sure the camera lens is in line with the eyepiece.  Want to be doing this with a light shining in (or in daytime) so you can see the "circle" of light.  Then get a general top-bottom.  Then move the camera in...and that distance is eyepiece specific.
+
+### Q32
+Good, tight mount from bracket to eyepiece.  A little tricky to get image centered, but not too bad.  Focusing was crisp.  
+
+Cross-piece was 500 pixels...so that's a little less than half of prime focus...meaning I've got 2.1x the viewing area...so I'm now at 924x693 arcseconds...or 15.4x11.5 arc minutes.  I'm now at 2x moon focus.  
+
+FUN THING TO TRY:  STITCH THE MOON PICS TOGETHER!!!!
+
+### 25mm plossi
+Probably the easiest ep to set up.  
+
+Cross-piece is 657 px...1.6x the viewing area.
+
+### 32 Nagler
+Don't bother.  Hard to mount, hard to align...
+523 pixels larger than Q32...just use that one.
+
+### 12 Nagler
+Don't bother.  Just barely fits in mount, focus is tough.  
+
+Cross-piece of ~1600 pixels...that's somewhere halfway between barlowed prime and regular prime. 
+
+### 9 Nagler
+This one was easier to mount than the 12...and easier to focus, but it's gonna be harder to track.  
+Gotta do my math from the other side of the cross-piece...this one is 1060 pixels, as opposed to 285 for the Q32 or 590 for prime focus.  Doing math, that would be 1357...so it's less than barlowed prime.
+
+### 8 mm ethos
+Too hard to get aligned...can't get close enough.
+
+### 6 radian
+Good zoom...decent to align, but it's gonna be difficult to track!!
+
+For pixels, we've got to go to a new feature...a standoff on the main pole.  Here it's 1592 pixels.  1132 pix for 9mm nagler.  635 for prime...meaining it would be 1460 for barlowed prime.  
+
 
 
 # 9-12-20 More planet tests

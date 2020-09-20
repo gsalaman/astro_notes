@@ -30,7 +30,18 @@ So, if that's all correct, my saturn diameter should be 193 * 8.7 / 21 = 80 pixe
 
 Which means 193 pixels / 21 arcseconds = 9.2 pixels per arcsecond.
 
-Okay, one more:  mars!  It's currently 10.5 arcseconds, so the pic should be 96 pixels.  Yup!!!
+Okay, one more:  mars!  It's currently 10.5 arcseconds, so the pic should be 96 pixels.  Yup!!!  Note:  It's gonna grow to 11.28 arc seconds...but that's only gonna be a few pixels more.  
+
+Last computation:  4056 pixels / 9.2 pixels per arcsecond means this view is 440 arcseconds long, by 330 arcseconds high.  The moon is about half a degree...or 30 arc minutes, or 1800 arcseconds.  That means it's more than 4x bigger than our prime focus...which seems to work out...
+
+But then this wiki site seems to contradict the saturn/juptier ephemerous sizes:
+https://en.wikipedia.org/wiki/Angular_diameter
+
+### Barlowed prime
+First, some math.  If the barlow is indeed 2x, the full crosspiece from the telescope should be 4000 pixels...about the full frame.  Unfortunately, my pic is rotated...and I can go middle to one end (2500 pixels). Checking the original prime, it's 1049.  So that's a factor of 2.3.
+
+Note:  to get the barlow to focus, I had to back it out by about 1 pinky width (a little more than a centimeter?)  Also tracking is gonna be *tough* with this...and getting a crisp focus is also hard.  So only do this for really good seeing conditions.
+
 
 
 # 9-12-20 More planet tests

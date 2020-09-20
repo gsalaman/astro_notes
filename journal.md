@@ -81,6 +81,12 @@ Good zoom...decent to align, but it's gonna be difficult to track!!
 
 For pixels, we've got to go to a new feature...a standoff on the main pole.  Here it's 1592 pixels.  1132 pix for 9mm nagler.  635 for prime...meaining it would be 1460 for barlowed prime.  
 
+## Takeaways
+For widest field, do the Q32.
+
+Standard zoom:  just do prime focus.
+
+Big zoom:  First try barlowed prime.  Then 9mm nagler (a little less).  Then 6mm radian (a little more).
 
 
 # 9-12-20 More planet tests

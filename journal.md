@@ -51,14 +51,14 @@ Lining up:  I found best results doing the left-right axis first, making sure th
 ### Q32
 Good, tight mount from bracket to eyepiece.  A little tricky to get image centered, but not too bad.  Focusing was crisp.  
 
-Cross-piece was 500 pixels...so that's a little less than half of prime focus...meaning I've got 2.1x the viewing area...so I'm now at 924x693 arcseconds...or 15.4x11.5 arc minutes.  I'm now at 2x moon focus.  
+Cross-piece was 500 pixels...so that's a little less than half of prime focus...meaning I've got 2.1x the viewing area...so I'm now at 1850x1386 arcseconds...or about 31x23 arc minutes.  I'm now right about full moon...a little smaller.  
 
 FUN THING TO TRY:  STITCH THE MOON PICS TOGETHER!!!!
 
 ### 25mm plossi
 Probably the easiest ep to set up.  
 
-Cross-piece is 657 px...1.6x the viewing area.
+Cross-piece is 657 px...1.5x the viewing area of prime.
 
 ### 32 Nagler
 Don't bother.  Hard to mount, hard to align...

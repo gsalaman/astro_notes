@@ -1,5 +1,17 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
+# 9-24-20 First try with the reducer
+## Quick EQ note
+Okay, I need to prototype the equitoral platform.  Probably gonna make a new file to track my thoughts on that...but here's a good starting link:
+http://www.reinervogel.net/index_e.html
+
+## Moon Experiments
+
+## Tough to get Jupiter
+
+## Mars coolness
+
+## Obligatory Saturn
 
 # 9-20-20 Daytime Tests
 ## First test: wide view

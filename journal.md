@@ -10,6 +10,10 @@ Reducer worked really well here...and doing the align with photoshop is cool!
 
 First stack try was based on auto-exposure and shutter-speed (base raspi-still command)...and so you have exposure time variances (15-33 ms) and ISO variances (40, 50, and 64).  This means the color and "feel" of the stacks are off...but I did some other "fixed" shutter speed examples.  Note that the ISO is considerably less than what I've been doing by hand...and the camera is compensating by doing a longer exposure time.  I wonder if that's gonna work on, say, jupiter...
 
+Next, trying with different shutter speeds...but I'm MUCH smaller than the auto-expose ones above...which leads me to a higher ISO.  For example, I'm in the 1ms to 500us range...and my ISO's (picked by raspi-still) are 200-400.  The best set seems to be 5ms ss...and those give me typically 200-320 ISO.  This gets me closer, but it's still a little off...yes, photoshop can almost blur it, but it would be better if I didn't have to do this.
+
+
+
 
 ## Tough to get Jupiter
 

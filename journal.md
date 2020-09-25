@@ -12,7 +12,7 @@ First stack try was based on auto-exposure and shutter-speed (base raspi-still c
 
 Next, trying with different shutter speeds...but I'm MUCH smaller than the auto-expose ones above...which leads me to a higher ISO.  For example, I'm in the 1ms to 500us range...and my ISO's (picked by raspi-still) are 200-400.  The best set seems to be 5ms ss...and those give me typically 200-320 ISO.  This gets me closer, but it's still a little off...yes, photoshop can almost blur it, but it would be better if I didn't have to do this.
 
-
+...and then I found the "auto blend" in photoshop...it does a great job!  Can't tell much difference between stack and panorama...but I'm tending to panorama after arranging images in "best to worst".
 
 
 ## Tough to get Jupiter

@@ -6,6 +6,10 @@ Okay, I need to prototype the equitoral platform.  Probably gonna make a new fil
 http://www.reinervogel.net/index_e.html
 
 ## Moon Experiments
+Reducer worked really well here...and doing the align with photoshop is cool!  
+
+First stack try was based on auto-exposure and shutter-speed (base raspi-still command)...and so you have exposure time variances (15-33 ms) and ISO variances (40, 50, and 64).  This means the color and "feel" of the stacks are off...but I did some other "fixed" shutter speed examples.  Note that the ISO is considerably less than what I've been doing by hand...and the camera is compensating by doing a longer exposure time.  I wonder if that's gonna work on, say, jupiter...
+
 
 ## Tough to get Jupiter
 

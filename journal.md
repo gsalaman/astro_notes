@@ -1,5 +1,19 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
+
+# 9-26-20 Exposure and ISO tests
+-fp says use capture for preview...but it looks like it doesn't work.  Driver just bails.
+
+Iso's checked:  50, 25, 10!!!  Wow!  So time to try the moon with that 50!!!
+
+Top range ISOs:   it seems to allow 1600 and 3200, but I don't see a pic difference from the 800...so I wonder if the 50 iso is actually doing anything...next test...50 to 100, yes.  10 to 50...maybe, maybe not...but that's a super low iso.  Just keep 50 as my floor.
+
+Okay, now long exposures.  takes a LONG time for preview screen to come up....maybe do these "no preview" (-n)
+All seem to work!!!  I had to close down my aperature to get it so I didn't get all white, but I see the difference between 1s 5s and 20s!!!!  Note the image save time is significant...was more than a minute for the 20s exposure.  But, I think I'm ready to try some night stuff!!!!
+
+
+
+
 # 9-24-20 First try with the reducer
 ## Quick EQ note
 Okay, I need to prototype the equitoral platform.  Probably gonna make a new file to track my thoughts on that...but here's a good starting link:

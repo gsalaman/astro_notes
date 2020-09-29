@@ -10,6 +10,19 @@ These are going to be my "raw photography" running notes...in reverse cron order
   * M31
 * Tried new settings on moon, jupiter, saturn, and mars.  Wow!!!
 
+## Night-Cam
+Best results:
+* Start with aperature all the way open and camera focused at infinity.
+* raspistill with `-ISO 800` and `-ss 1000000` (1 second)
+  * note this has preview on...
+* at this point, play with your aperature (move it down) and zero in your focus to get the stars as a crystal point.
+
+For the moon itself, I was using ISO=50 with a shutter speed of 20 ms.  Had to bring the aperature WAAAAY down to get the detail.
+
+For the East background, I brought up the exposure time to 200 ms.  That gave me a lighter sky wth the barn and posts.
+
+
+
 
 # 9-26-20 Exposure and ISO tests
 -fp says use capture for preview...but it looks like it doesn't work.  Driver just bails.

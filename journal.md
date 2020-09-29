@@ -21,6 +21,12 @@ For the moon itself, I was using ISO=50 with a shutter speed of 20 ms.  Had to b
 
 For the East background, I brought up the exposure time to 200 ms.  That gave me a lighter sky wth the barn and posts.
 
+My best south one was a 10 second exposure with iso 800...and the aperature was fairly open, making a pretty bright pic.  I then adjusted the curves to bring the background darker.
+
+Casseopia with part of the double-double:  ISO only 200.  Exposure 30 seconds.  Focus and aperature tweaked by hand...don't remembrer where they ended up.
+
+M31:  just mostly guessed in the sky, and found a little smudge.  Yes, that was it.  :)  60s exposure, ISO 400.  I *think* the anti-shake algos are doing some tracking for me...no trails in the pic!
+
 
 
 

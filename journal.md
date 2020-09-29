@@ -1,6 +1,16 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 
+# 9-28-20 First tries with "just camera" plus bonus planets and moon
+## Summary
+* Good experiements with putting the picam on a mini-tripod and taking pics of the sky...had an almost full moon.  Targets:
+  * Moon over the barn
+  * Jupiter and Saturn to the south
+  * Cassiopia
+  * M31
+* Tried new settings on moon, jupiter, saturn, and mars.  Wow!!!
+
+
 # 9-26-20 Exposure and ISO tests
 -fp says use capture for preview...but it looks like it doesn't work.  Driver just bails.
 

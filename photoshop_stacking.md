@@ -1,3 +1,5 @@
+# DON'T DO IT THIS WAY!!!!  PIPP+AUTOSTAKKERT+REGISTAX IS MUCH EASIER AND BETTER!!!
+
 # Glenn's Photoshop Stacking workflow.
 So you've got a bunch of images that you want to make into a cool final image.  Here's my stacking workflow:
 

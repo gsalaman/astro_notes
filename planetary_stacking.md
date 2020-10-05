@@ -2,6 +2,17 @@
 
 ## Intro
 
+## MP4Box
+To convert an .h264 file into an MP4 on the Pi, you need MP4Box.  To install:
+```
+sudo apt install -y gpac
+```
+
+Then, to convert (well, wrap actually...):
+```
+MP4Box -add <source.h264> <dest.mp4>
+```
+
 ## PIPP - Planetary Image PreProcessor
 * Put all of your JPGs into a folder.
 * Open up PIPP.

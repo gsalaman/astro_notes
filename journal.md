@@ -1,6 +1,20 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 
+# 10-4-20 Image Processing Breakthrough and more targets
+The big news of the day:  for planets, using PIPP+Autostakkert+Registax is MUCH easier and yields much better results than photoshopping.  See https://github.com/gsalaman/astro_notes/blob/master/planetary_stacking.md
+
+Tonight's targets, in rough order:
+* Jupiter and the GRS, with moon captures
+* Saturn, with moon captures
+* ISS pass
+* M31 with "just cam" before moonrise
+* "Double-Double" "just cam"
+* Mars
+* Moon
+
+Collected both vid and 12MP pics of most targets...will compare the stacking results, but the vid stream seems much more efficient.
+
 # 9-28-20 First tries with "just camera" plus bonus planets and moon
 ## Summary
 * Good experiements with putting the picam on a mini-tripod and taking pics of the sky...had an almost full moon.  Targets:

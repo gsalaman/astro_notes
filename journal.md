@@ -29,6 +29,14 @@ Taking a single vid frame from raspivid (1080p), jupiter is 65 pixels wide.  65 
 
 This means that I get more than double the pixels (in one dimension) for doing stills...but then I don't get as many frames-per-second, as it's not continously saving.  
 
+## Capturing Saturn's Moons
+To get Titan, I needed to crank the ISO and exposure WAAAAY up:  
+* ISO 800
+* 500ms shutter speed
+
+Going to a 1s shutter speed gave me some streak at prime focus.  
+At 100ms shutter speed, you could only sometimes barely get Titan.
+
 # 9-28-20 First tries with "just camera" plus bonus planets and moon
 ## Summary
 * Good experiements with putting the picam on a mini-tripod and taking pics of the sky...had an almost full moon.  Targets:

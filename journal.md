@@ -20,6 +20,15 @@ Tried prime focus...size of ISS will be good in this format, but catching and tr
 
 The other option is to try and get it afocal with the Q32...the good news here is I can shut down the aperature with the dial on the lens.  This might be an easier way to go.
 
+## Sizing notes
+From the ephemerous generator, jupiter has an equatorial radius of 19.97 arcseconds tonight.  That's a diameter of 39.94 arcseconds.  
+
+Measuring a 12MP frame, I get about 143 pixels for equatorial diameter...which translates to 3.58 pixels per arc-second...a little off the 4.6 number in the 9/20 daytime tests below...but I think that's becase my arc-seconds for jupiter was off.
+
+Taking a single vid frame from raspivid (1080p), jupiter is 65 pixels wide.  65 * 4096 / 1920 = 140...so that math works out.
+
+This means that I get more than double the pixels (in one dimension) for doing stills...but then I don't get as many frames-per-second, as it's not continously saving.  
+
 # 9-28-20 First tries with "just camera" plus bonus planets and moon
 ## Summary
 * Good experiements with putting the picam on a mini-tripod and taking pics of the sky...had an almost full moon.  Targets:
@@ -110,7 +119,8 @@ https://pds-rings.seti.org/tools/ephem2_sat.html
 
 So, if that's all correct, my saturn diameter should be 193 * 17.4 / 42 = 80 pixels.  Check: yup!!!
 
-Which means 193 pixels / 42 arcseconds = 4.6 pixels per arcsecond.
+Which means 193 pixels / 42 arcseconds = 4.6 pixels per arcsecond.  
+--> **NOTE:  Different result calculated on 10/04 above:  3.58 pixels per arcsecond for prime**
 
 Okay, one more:  mars!  It's currently 21 arcseconds, so the pic should be 96 pixels.  Yup!!!  Note:  It's gonna grow to 22.5 arc seconds...but that's only gonna be a few pixels more.  
 

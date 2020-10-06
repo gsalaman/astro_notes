@@ -1,6 +1,8 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 
+*****
+
 # 10-4-20 Image Processing Breakthrough and more targets
 The big news of the day:  for planets, using PIPP+Autostakkert+Registax is MUCH easier and yields much better results than photoshopping.  See https://github.com/gsalaman/astro_notes/blob/master/planetary_stacking.md
 
@@ -36,6 +38,14 @@ To get Titan, I needed to crank the ISO and exposure WAAAAY up:
 
 Going to a 1s shutter speed gave me some streak at prime focus.  
 At 100ms shutter speed, you could only sometimes barely get Titan.
+
+## Seeing notes
+After post-processing most images, it's obvious the seeing isn't as good as it was a couple nights ago.  Still, got a couple decent jupiters...but the cassini division doesn't "pop" on saturn...and the mars details are a little fuzzy.
+
+## M31
+Grabbed this before the moon came up...but after playing with the image, it's obvious that light-pollution is gonna be the limiting factor.  <sigh>
+ 
+*****
 
 # 9-28-20 First tries with "just camera" plus bonus planets and moon
 ## Summary

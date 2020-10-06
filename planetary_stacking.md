@@ -87,6 +87,8 @@ You should now have a "fuzzy" image of your planet, but happily stacked in an AS
 * Click `Save Image`
   
 -----
+## Video Flow
+If you are doing videos, the flow is mostly the same...but you've got an added step of converting the .h264 file into something our toolchain understands.
 
 ## MP4Box
 To convert an .h264 file into an MP4 on the Pi, you need MP4Box.  To install:
@@ -98,3 +100,7 @@ Then, to convert (well, wrap actually...):
 ```
 MP4Box -add <source.h264> <dest.mp4>
 ```
+## PIPP
+PIPP will let you select that MP4 instead of a bunch of individual image files.  
+
+The rest of the flow is the same.

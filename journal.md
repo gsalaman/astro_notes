@@ -16,6 +16,7 @@ Tonight's targets, in rough order:
 * Moon
 
 Collected both vid and 12MP pics of most targets...will compare the stacking results, but the vid stream seems much more efficient.
+--> *Spoiler:  I like the results from stills better*
 
 ## ISS pass notes
 Tried prime focus...size of ISS will be good in this format, but catching and tracking it will be **HARD**.  Got focus on polaris for starters...that worked well cause polaris doesn't move.  :)  I think my shutter speed was too great (Did I use 10ms?) as I got *way* to much streaking...and it was BRIGHT!  If I want to try this next time, I need to have my shutter speed down sub-ms.  Maybe go ISO 100 and 1ms shutter speed?

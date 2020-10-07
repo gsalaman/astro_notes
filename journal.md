@@ -1,5 +1,24 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
+*****
+# 10-6-20 Mars in better seeing
+Went out at around 10pm for a "quick shot" of mars...the seeing was supposed to be 3 on it's way to 4, so I wanted to see the differences between captures tonight and a couple nights ago (when the seeing was 2-3).
+
+Long story short:  makes a huge difference.  Was able to do a 2x barlow on the prime focus...have to back it out of the focuser tube to get it to actually focus, but it's worth it.  Image *much* better.
+
+Pixel calcs:
+Mars processed 2x barlow pic:  197 pixels.
+Mars processed prime focus from 2 nights ago:  80 pixels.  So that's a little more than a factor of 2.
+
+Ephemerous data:
+22.5 arc seconds on 10/4.  
+22.6 arc seconds on 10/6 (this is the biggest it's gonna get this opposition)  
+
+Calculated prime pixels around Mars' diameter:  81 (3.58 pixels per arcsecod * 22.6 arc seconds)
+
+Barlowed pixels per arc second:  197 / 22.6 = 8.7  
+**This is more than a factor of 2 becasue the barlow is backed out of the focuser...increases focal length of the scope.**  
+Likely the same reason I'm only seeing a factor of 80% in the focal reducer.
 
 *****
 

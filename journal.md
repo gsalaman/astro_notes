@@ -1,6 +1,12 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 10-10-20 EQ Platform notes
+To help with align, raspistill has a -fw option (focus window)
+*****
+# 10-8-20 Meh
+Mars, Jupiter, Saturn.  Seeing on the 2 end of 2-3...got some meh shots.
+*****
 # 10-6-20 Mars in better seeing
 Went out at around 10pm for a "quick shot" of mars...the seeing was supposed to be 3 on it's way to 4, so I wanted to see the differences between captures tonight and a couple nights ago (when the seeing was 2-3).
 

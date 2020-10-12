@@ -1,6 +1,27 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 10-12-20 Early Morning EQ Tests, orion, moon
+
+## Full FOV
+Orion's belt spans 2.736 degrees.  In our full FOV shot, that's about 490 pixels...meaning we've got 179 pixels per degree....or about 3 pixels per minute.
+
+Double check:  the moon was 1901 arc-seconds last night...that's 31.68 arc-minutes...meaning it should have been just under 100 pixels.  Confirmed!!!
+
+## Tracking notes
+Align on polaris went pretty well...ISO 400, SS 1 sec to get the focus right, then you are decent to align the cam.  Platform 40 deg and eq lineup was pretty close.  Went over to the moon...and yup...it tracks decently at 93 ms!  In 25 minutes, I only got a drift of about 6 pixels!!!!!  
+
+Looking at Andromeda, I see an uncorrected drift of 83 pixels over about 2 minutes...meaning it would have drifed over 1000 pixels in that 25 min!  Put another way, I've corrected a factor of around 167...two orders of magnitude!!!  Note that this isn't entirely accurate; the moon was at declination 18 degrees, and andromeda was at 41...but that means andromeda should have moved *LESS* than the moon (becase of the fact it's closer to polaris).
+
+One other note here...my 93ms-per-step calculation was based on a 24 hr circle...when in fact, it's a 23 hr, 56 minute circle.  That isn't enough to change my 93ms stepper delay number.
+
+However, the moon's "day" is 24hr 49 min...which means I need to slow down tracking. (I'm now at 0.00064" per second rather than 0.00066").  Do the math, that's 96ms-per-step rather than 93!!!
+
+## Design Thoughts
+Had the drive bearing come out of it's bracket at about 26 min in...need to clamp both sides.  And I really want to do the vertical segment for weight....with a "single point" south bearing rather than angled.  Translation:  get rid of all those 40/50 degree cuts!!!!
+
+
+*****
 # 10-10-20 EQ Platform notes
 To help with align, raspistill has a -fw option (focus window)
 *****

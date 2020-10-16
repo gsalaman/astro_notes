@@ -1,5 +1,18 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
+
+*****
+# 10-16-20 Calcs
+Processing some older photos, including fraser pics from 9/14.
+
+Did the jupiter calc for the 12":  on 9/14, jupiter was 42.6 arcsecods.  Single frame prime focus image is 184 pixels...which gives 4.32 pixels per arc-seconod.
+
+10" was 3.58 pixels per arcsecond.
+
+This *should* be the ratio of the focal lenghts (1200mm vs 1500mm).  3.58/4.32 ~= 83%   1200/1500 = 80%.  Close enough.
+
+Fun note:  the 18" obsession is a 1905mm focal length beast...meaning we'll have around 5.6-5.7 pixels per arc second on the big scope!!!  Makes me want to break it out sooner rather than later.
+
 *****
 # 10-12-20 Early Morning EQ Tests, orion, moon
 
@@ -44,7 +57,7 @@ Ephemerous data:
 Calculated prime pixels around Mars' diameter:  81 (3.58 pixels per arcsecod * 22.6 arc seconds)
 
 Barlowed pixels per arc second:  197 / 22.6 = 8.7  
-**This is more than a factor of 2 becasue the barlow is backed out of the focuser...increases focal length of the scope.**  
+**This is more than a factor of 2 because the barlow is backed out of the focuser...increases focal length of the scope.**  
 Likely the same reason I'm only seeing a factor of 80% in the focal reducer.
 
 *****

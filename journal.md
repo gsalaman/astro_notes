@@ -7,6 +7,7 @@ Dodged the smoke to get almost new moon...stitching issues because of the boil. 
 Did not need the tracking mount, even when  doing 180s (3min) exposures.  Best results were to aim at something bright with an iso 400 and 1s exposure, aperature at about half to make focus easier.  Nail in focus, then start opening up aperature and dialing focus.  Can also do this at 5s or 10s, but your feedback loop is slower...so I did that *after* the initial dial in.  
 
 Curious...the pi viewer seems to see differences in exposures over 10s, but when I bring them to the mac, it looks like it's limiting them.  Double check...hmmm...yeah, may need to specify `-md 3` on the command line.
+**----> CONFIRMED!** 30s pic takes about a minute.  180s pic takes 16 min(!) to load pipeline, then 7 min per pic.
 
 
 *****

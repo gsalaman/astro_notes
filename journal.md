@@ -1,5 +1,12 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
+*****
+# 10-19-20 Fraser
+Dodged the smoke to get almost new moon...stitching issues because of the boil.  Will try later.  Promising stream of jupiter, but then clouds/high level smoke rolled in.  But, then woke up at 2, and got some good windows in the sky with the camera!!!
+
+Did not need the tracking mount, even when  doing 180s (3min) exposures.  Best results were to aim at something bright with an iso 400 and 1s exposure, aperature at about half to make focus easier.  Nail in focus, then start opening up aperature and dialing focus.  Can also do this at 5s or 10s, but your feedback loop is slower...so I did that *after* the initial dial in.  
+
+Curious...the pi viewer seems to see differences in exposures over 10s, but when I bring them to the mac, it looks like it's limiting them.  Double check...
 
 *****
 # 10-16-20 Calcs

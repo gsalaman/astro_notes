@@ -1,5 +1,10 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
+
+*****
+# 10-21/20 More calcs
+Full FOV, based on orion's belt calc below:  22 degrees by 17 degeees.
+
 *****
 # 10-19-20 Fraser
 Dodged the smoke to get almost new moon...stitching issues because of the boil.  Will try later.  Promising stream of jupiter, but then clouds/high level smoke rolled in.  But, then woke up at 2, and got some good windows in the sky with the camera!!!

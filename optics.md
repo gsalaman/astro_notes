@@ -26,7 +26,7 @@ I think inserting a 2x barlow will double that.
 Saturn is currently 18.3 arcseconds...about 1/3 of an arc-minute.   May be too small for prime focus.
 
 10/21/20 Math:  
-Doing the full CCD calculation shows we're 15.72 arc minutes by 11.78 arc minutes...so for 4056x3020, that comes out to 4.3 pixels per arc second for both dimensions.
+Doing the full CCD calculation shows we're 15.72 arc minutes by 11.78 arc minutes...so for 4056x3020, that comes out to 4.3 pixels per arc second for both dimensions....still a little big.  Did a double check on the moon from 10/04; 6600 pixel diameter, ephemeris shows 1763 arc seconds...which gives 3.74 pixels per arc second.  
 
 # iso
 Sensitivity of CCD sensor to light.  Lower iso is "darker" but less noise.

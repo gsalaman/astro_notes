@@ -1,8 +1,19 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
+*****
+# 10-30-20 Night exposure testing
+(Almost) full moon, but good transparency.  Played around with various exposure settings *WITHOUT* the eq mount to see base streak.  These were based on an area near deneb, so we're talking declination of 45deg21'32"
+
+* 10s image shows almost no streak...maaaaaaaybe 5 pixels.  Note I get that when either doing auto mode or md 3.  
+* 30s image streak goes to 17 pixels.  
+*  60s: 36 pixels  
+* 120s: 62 pixels
+* 180s: 98 pixels
+
+Did some exposure shots of longs in the full moon...Max suggested to shoot in raw for better post processing.   He's right. 
 
 *****
-# 10-21/20 More calcs
+# 10-21-20 More calcs
 Full FOV, based on orion's belt calc below:  22 degrees by 17 degeees.
 
 *****

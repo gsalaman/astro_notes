@@ -1,6 +1,13 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 10-31-20 Mars and the moon
+Two notes for tonight:
+
+* even though the focal reducer doesn't cut the image by as much as I'd like, it's still useful for reducing the moon pics.
+* Mars is possible on a seeing 2 night.  Took LOTS of pics (231)...quality wasn't great on most, but ended up with a good result.  See https://docs.google.com/presentation/d/1H1rkcFj8JzOPGpRq9-oWSxdFA9BwbMzXrY6bOx8FGn0/edit?usp=sharing
+
+*****
 # 10-30-20 Night exposure testing
 (Almost) full moon, but good transparency.  Played around with various exposure settings *WITHOUT* the eq mount to see base streak.  These were based on an area near deneb, so we're talking declination of 45deg21'32"
 

@@ -1,6 +1,13 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 11-04-20 70mm Daytime tests
+As a reference, the full cross piece through the 10" at prime focus is 2000 pixels.  Using 3.7 pixels per arc-second, that means the cross-piece is about 540 arc-seconds long.
+
+Now, moving to the 70mm.  The cross piece is 632 pixels at prime focus.  Divide by 540 arc-seconds, and you get 1.17 pixels per arc-second...or in a 12MP image,  57x43 arc-mintues, or a little less than a degree.  Note prime focus is a litte tough...the focuser screws don't really lock on.  Look for a c-mount-to-1.25" focuser thinggy?
+
+Then, with the reducer (that has the cool ability to drop in a 1.25" threaded filter), we're at 521 pixels...or .96 pixels per arc second.  In that 12mp image, thats 70'x 53'.
+*****
 # 10-31-20 Mars and the moon
 Two notes for tonight:
 

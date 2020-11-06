@@ -3,9 +3,8 @@ These are going to be my "raw photography" running notes...in reverse cron order
 *****
 # 11-05-20 Fraser
 Timing for pics:
-120s exposure takes ~12 min for preview to come up, and then 2 min for capture.  Subsequent captures take ~3 min.
-60s exposure takes ~6 min for preview, then anoother min for caputre.  Subsequent captures take ~2 min.
-
+* 120s exposure takes ~12 min for preview to come up, and then 2 min for capture.  Subsequent captures take ~3 min.
+* 60s exposure takes ~6 min for preview, then anoother min for caputre.  Subsequent captures take ~2 min.
 
 
 

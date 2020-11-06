@@ -1,6 +1,15 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 11-05-20 Fraser
+Timing for pics:
+120s exposure takes ~12 min for preview to come up, and then 2 min for capture.  Subsequent captures take ~3 min.
+60s exposure takes ~6 min for preview, then anoother min for caputre.  Subsequent captures take ~2 min.
+
+
+
+
+*****
 # 11-04-20 70mm 
 ## Daytime tests
 As a reference, the full cross piece through the 10" at prime focus is 2000 pixels.  Using 3.7 pixels per arc-second, that means the cross-piece is about 540 arc-seconds long.

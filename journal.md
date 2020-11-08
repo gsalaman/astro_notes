@@ -1,5 +1,23 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
+
+
+*****
+# 11-08-20 Celestron Day tests
+camera needs reducer to fit in eyepiece.  Think about getting a 1.25" c mount with filter threads.
+
+Cross piece, with reducer:  2869 pixels.  Cross piece length in arc-seconds (from below):  540
+2869 / 540 = 5.3 pixels per arc-second.
+
+Comparason notes 
+Mars, assuming 20 arc seconds:
+* 10" prime: 72 pixels
+* 10" barlow: 174 pixels
+* celestron w/reducer: 106
+
+...meaning if I can get the reducer out of the equation, I get even better pixels!!!
+
+
 *****
 # 11-05-20 Fraser
 Timing for pics:

@@ -1,6 +1,21 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 
+*****
+# 11-25-20 Pan/Tilt notes
+Got a Pan/Tilt kit from Servocity with a couple HS645MG servos.  Goals:
+* Check out their design...may leverage pieces I like into my own pan/tilt
+* See if servo control is sufficient for moving the travel-scope
+* If I can get a stable star focus, check out the circle EQ platform at mag.
+
+Design notes on Servocity's implementation
+* the tilt platform is not along the COG...meaning that you are definitly torquing the servos.  Those 645s struggle at certain angles...and you can get jitter, even when running ext power.  
+* For building the platform, they have you screwing in directly to the ABS plastic.  This isn't great, and means you get some slop in some of the connections. Go with heat set inserts!
+* At mag, a one degree servo jump is too much.  I want to go stepper here for finer control.  There's also a little backlash on movement...probably due to the force on the servo.  Also want to try to see if I can pass fractional degrees to the adafruit driver.
+* could upgrade the servos to give more torque, but that's $$$.  The 645s were a little over $30 each, with a stall torque of 100ish oz-in.  If I up the input voltage to 6v, I should be able to get 130 instead...I want to try that to see if that's good enough (guessing not).  If you go to the 5585, you get 236 oz-in for ~$70 each....and that needs 7.4v input.
+
+But even with that, this will probably work as a pan-tilt for *just* the pi-cam.
+
 
 *****
 # 11-08-20 Celestron Day tests

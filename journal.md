@@ -1,5 +1,12 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
+*****
+# 11-30-20 Max's Camera
+5184 x 3456 pixels.
+
+Crosspiece is 29 pixels.  From earlier calcs, it's 540 arc seconds.  That's 18.62 arcseconds per pixel.  For comparison, the picam is 24 pixels for the crosspiece...or 22.5 arc-seconds per pixel.
+
+This means that his camera's field of view is 5184x18.62 = 26 degrees by 18 degrees.
 
 *****
 # 11-25-20 Pan/Tilt notes

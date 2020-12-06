@@ -1,6 +1,22 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 12-6-20 VS-11
+Got the VS platform assembeld...motion tested inside during the day under load.  Comments:
+* The planetary stepper is a little louder than the straight NEMA-14.  Had to tweak current to get it in a happy place.
+* Motion on the wedges works for about 30 min...too far to one side, and the wedge is at about a 45 deg angle to the bearing, and the bearing can't quite move it.  
+* That slip has a good news though...I can use that for polar alignment
+* Speaking of polar alignment, I don't have feet on this thing yet (and it looks like the north end is a little lower than I want).  I'm going to shim it with blocks tonight under south...should be workable.
+* Scope motion doesn't seem to shift the platform, as long as I'm generally careful.
+* I'm curious whether the stepper induces vibration to the platform.
+
+Tests:
+* Start with polar alignment.  Going to try and use the finder for this rather than the pi-cam
+* Pick a star (or mars!)  Start with a wide lens, and check the drift visually.  Turn on tracking; any vibration?  Hows the track speed?  Play with going to 14ms and 12ms...any noticable differenence?  
+* Switch to higher mag...8mm ethos?  How are the effects?
+* If all is good here, try lining up M52.  Start visually...bright enough?  If decent, try pi-cam with reducer.
+
+*****
 # 11-30-20 Max's Camera
 5184 x 3456 pixels.
 

@@ -2,6 +2,8 @@
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
 # 12-6-20 VS-11
+
+## Daytime
 Got the VS platform assembeld...motion tested inside during the day under load.  Comments:
 * The planetary stepper is a little louder than the straight NEMA-14.  Had to tweak current to get it in a happy place.
 * Motion on the wedges works for about 30 min...too far to one side, and the wedge is at about a 45 deg angle to the bearing, and the bearing can't quite move it.  
@@ -16,6 +18,19 @@ Tests:
 * Switch to higher mag...8mm ethos?  How are the effects?
 * If all is good here, try lining up M52.  Start visually...bright enough?  If decent, try pi-cam with reducer.
 
+## Nighttime
+Started with polar alignment.  My presentation notes are *backwards!* I'm not sure why...but when you look here, you see the corret stuff:
+http://www.astrosurf.com/aheijkoop/Equipment/EqPlatform.htm
+
+Did my tests on Alcyone in the Pleiades...it's got a good triangle asterism nearby.  Started with 25mm plossi...siderial drift wasn't fast enough.  Switched to the 8mm ethos...could see the stars moving downward.  Turned on tracking...didn't seem to do anythiing.  Played around with it, finally going to "fast", and found that I wasn't actually moving the platform.  Fixed that, went back to fast, and observed Alcyone going "up" (yay!)  Definitly had some "slip" in the bearings.
+
+Next steps:
+* Verfy pulse timing on the scope.
+* Tweak code to allow for us delays...and allow for various step sizes.  Also change such that we're doing a delta-t measurement rather than straight delay...that should make this more robust.
+* Need a better bearing/wedge interface.  
+  * First try adding aluminum
+  * Do we have to go with Gunter's cable solution?
+  
 *****
 # 11-30-20 Max's Camera
 5184 x 3456 pixels.

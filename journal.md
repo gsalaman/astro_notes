@@ -1,5 +1,16 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
+
+*****
+# 12-25-20 T7
+Canon EOS Rebel T7 camera specs:
+* 6k x 4k pixel field
+* Telephoto moon shot yields 670 pixels
+  * Ephemeris:  Moon is 1770 arc-seconds tonight
+  * Means 2.6 arcseconds per pixel, or .38 pixel per arcsecond
+  
+  
+Full field:  6000 x 4000 pixels, or 260 arcminutes by 173 arc minutes, or  4.3 by 2.8 degrees
 *****
 # 12-6-20 VS-11
 

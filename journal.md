@@ -1,5 +1,16 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
+*****
+# 1-2-21  More T7 measurements
+Wide-angle:  crosspiece is about 10 pixels.  Since it's 540 arc-seconds, that's 54 arc-seconds per pixel.  That means the widest FOV I've got is 6000 x 54 by 4000 x 54...90 Degrees by 60 degrees.  WIDE swath of the sky.
+
+58mm Zoom:  crosspiece is 37 pixels.  Math works out to 15.88 arc-seconds per pixel.  That FOV is ~26 degrees by ~18 degrees.
+
+Picam looks to be 22 degrees by 17 degrees...so a little narrower than that 58mm zoom...but worse resolution...about 20 arc-seconds per pixel.
+
+Telephoto zoom out: crosspiece 56 pixels.  9.64 arc-seconds per pixel.  FOV:  16 degrees by 10.7 degrees.
+
+Telephoto zoom in: crosspiece 198 pixels.  2.73 arc-seconds per pixel.  FOV:  4.5 degrees by 3 degrees.
 
 *****
 # 12-25-20 T7

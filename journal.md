@@ -1,6 +1,24 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 1-3-21  Early morning T7
+Was going to go out and play last night, but too cold.  Woke up early, and did some tests from the living room out the big window.  Notes:
+
+* Remember that smaller aperature F number is *larger* aperature.  So F5.6 is the widest (most light) my cam will go.
+* ISO 6400
+* Canon screen and EOS utility doesn't give as good a "live view" as the PiCam. You can see bright stars, but if you really want to check out where you are in the sky or fine tune your focus, you've got to take sample pics.
+* The EOS utility lets you save pics to disk rather than SD card.  Very handy for the aforementioned preview.
+* For basic alignment, start with Telephoto as wide as possilbe (zoomed out), F6ish apaerature, and 2s shutter speed.  The webcam tripod thing doesn't work very well...time to finish the pan-tilt.  Want focus at infinity for starters (all the way counter-clockwise).
+* as you are zooming in, you may need to tweak the focus just a hair.  I went a little clockwise...and did some experimental pics to get the focus as close as I could.  Note smaller aperature gives tighter focus...so trade off aperaature with shutter speed.
+* The camera does a good job with meta-data...in addition to ISO, aperature (f/5.6), shutter speed, it also knows which lens is on it, and what zoom (focal length) you are using.
+* Will definitly need the eq platform.  5 second pic at 300mm gave a streak of about 32 pixels.  30s shot brings that to about 190.  Just a light smudge on the 2.5s shot.
+* Wait time is SOOOOOOOOO much better than with the pi-cam.  Pics are ready less than a second after the exposure is done.
+
+Next steps:  
+* Finish pan/tilt
+* Try Orion...zoomed 2.5s gonna be enough?
+* Maybe beehive or double-double or perseids
+*****
 # 1-2-21  More T7 measurements
 Wide-angle:  crosspiece is about 10 pixels.  Since it's 540 arc-seconds, that's 54 arc-seconds per pixel.  That means the widest FOV I've got is 6000 x 54 by 4000 x 54...90 Degrees by 60 degrees.  WIDE swath of the sky.
 

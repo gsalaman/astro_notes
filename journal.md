@@ -1,6 +1,43 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 1-3-21 (night) Orion!
+## pan/tilt
+Pan/Tilt app completed durning the day.  Will want to tweak it...need something between a "nudge" and "go" that only does a little bit of a frame.  My math:
+* 300mm (telephoto zoom in) FOV = 4.5x3 degrees.  Want steps of maybe half a degree for this?  `200 steps * 16 microsteps / 360 degrees = 8.88 microsteps / degree`, so maybe 4 steps pan, which means 20 steps tilt (because of the 5/1 gear).
+* 75mm (telephoto zoom out) FOV = 16x10 degrees.  Steps of 2 degrees for this field?  18 pan, 89 tilt?
+
+## Step 1:  no tracking
+Started with Orion, no track.  The live view finder doesn't seem to react to aperature, so you can only barely see the brightest stars.  Still, was good enough to get my alignment on orion's belt.  Start zoomed out, took some pics.  
+* 80mm gave both the belt and the sword, but even at 2s had pixel drift (looks like ~21 pixels)
+* when zooming in with the telephoto, need to make sure target is centered in FOV first.  Because Live-view doesn't give full resolution, you need to do sample pics to get there.  Same for "star hopping" from your start to destination...but having a bigger, deteriministic "nudge" will help here.
+* 300mm framed the nebula nicely.  
+Which meant it was time for the EQ platform!!!
+
+## Step 2: tracking!
+Since the live view stars are dimmer, alignment is a little tougher.  The good news is that polaris *does* show up...and so I walked through my alignment just fine. 
+
+I had noticed slip in the EQ bearings depeneding on where the camera was placed...so another test (which I think I'll always do now) is to generally point the camera at the target, and then go through "fast motion" to make sure we have no slip and the camera is stable.  Can then turn on "slow motion", (93ms for the circle EQ platform) and reset by hand...no other adustments needed.
+
+Pointed over at orion, and...yeah.  Works great!  Notes:
+* setup is very suceptable to vibration...so avoid wind and be light with your live-view clicks.  
+* Focus is tricky to get spot-on.  Infinity got close, but I had to back it off by just a smidge to get it relatively crisp.  Note that closing down the aperature (bigger number) helps with that, but then you need to compensate with a longer exposure.
+* speaking of focus, I did notice a couple shots where a star was bright in the center with dimmer "wings" that appered to be along the tracking line.  I'm wondering whether 93ms gives you enough drift to hit this kind of pixel effect....will need to do the math.
+* was able to get the flame (barely!) but can't see the horsehead.  Need filter (waiting on step-down ring) and darker skies.
+
+## Other randomness
+I wonder if using a vid with preview mode will let me do alignment better than the live-view shot...need to experiment with that.
+
+I should probably put safety "pins" in the circle EQ to prevent it from walking off either forward or back.  Can do this as a hole with nails so that they can be removed. 
+
+One final note...the camera's battery does not like the cold!  Most of the session had "low battery" warning...and now I've got half strenght.  Need to look at the docs to see whether I can run with external power or heat the bottom or something else...but in any event, I'm going to want another battery.
+
+## To-dos:
+* safety device on EQ platform
+* Math on 93ms pixel drift
+* Tweak pan/tilt app for bigger nudges
+* Try video preview
+
 # 1-3-21  Early morning T7
 Was going to go out and play last night, but too cold.  Woke up early, and did some tests from the living room out the big window.  Notes:
 

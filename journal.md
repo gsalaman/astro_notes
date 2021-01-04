@@ -4,7 +4,8 @@ These are going to be my "raw photography" running notes...in reverse cron order
 # 1-3-21 (night) Orion!
 ## pan/tilt
 Pan/Tilt app completed durning the day.  Will want to tweak it...need something between a "nudge" and "go" that only does a little bit of a frame.  My math:
-* 300mm (telephoto zoom in) FOV = 4.5x3 degrees.  Want steps of maybe half a degree for this?  `200 steps * 16 microsteps / 360 degrees = 8.88 microsteps / degree`, so maybe 4 steps pan, which means 20 steps tilt (because of the 5/1 gear).
+* 300mm (telephoto zoom in) FOV = 4.5x3 degrees.  Want steps of maybe half a degree for this?  200 steps * 16 microsteps / 360 degrees = 8.88 microsteps / degree
+So maybe 4 steps pan, which means 20 steps tilt (because of the 5/1 gear).
 * 75mm (telephoto zoom out) FOV = 16x10 degrees.  Steps of 2 degrees for this field?  18 pan, 89 tilt?
 
 ## Step 1:  no tracking

@@ -1,6 +1,22 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 1-6-21 Fraser
+Successful, albeit cold session from Fraser.  Here are my notes:
+* Single digit night!  Means ski base layer, balaclava, hand-warmers...but next time, need better foot warming.  Boots?  Hand warmers in the shoes?  Note I *was* out there for about 3 hours...
+* I can get polaris from the front deck, looking over the house.  Didn't try the vid mode (forgot about it)...still tough seeing the stars on the view finder.
+* Temperature is an issue!!!  Camera did okay with full battery, but phone and laptop eventually decided it was too cold.  Phone could go in a pocket with a hand-warmer, but I needed to plug in the laptop...which means the power strip was full.
+* Pan-tilt assembly needs to get soldered.  I think I had one case where a wire came out...and I had to move it inside to debug (mostly because of the cold).  I had some weird stepper effects as well...not sure whether that's due to a loose wire or the raw temperature.  
+* Thinking about combining the pan-tilt with the eq driver...less hardware.  Probably a project for *after* I have my motor boards back.
+* Did the experiment with streak...and the math is working out.  The elongated streaks from last time I bet were just vibration.
+* Tried the manual focus control from the app (which requires autofocus on).  Had a case where it tried to focus itself...need to play with that to get it happy.  Could deal mostly by hand to get stars in focus, but it would be nice to have that final layer of control.
+
+Future to-dos:
+* check vid mode for align
+* solder pan-tilt
+* combined mount?
+* safeties on the eq platform
+*****
 # 1-3-21 (night) Orion!
 ## pan/tilt
 Pan/Tilt app completed durning the day.  Will want to tweak it...need something between a "nudge" and "go" that only does a little bit of a frame.  My math:

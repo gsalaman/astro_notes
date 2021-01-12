@@ -1,6 +1,25 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 1-12-21 Daytime tests
+## Laptop camera control tests
+### Exposure
+Looks like you can set the exposure (shutter speed) in manual mode and get increased brightness.  Bulb mode doesn't do anything.  To try at night:
+* set ISO to 6400
+* set Aperature to as wide as possible (smallest number)
+* set Focus to infinity
+* Set exposure (shutter speed) to at least 1s.  Should be able to go up to 30s...curious to try it.  
+
+Do dark room test to confirm.
+
+### Focus
+To control the focus manually:
+* Make sure switch is set to AF
+* Want quick mode.
+* Want manual selection, with OFF yellowed out.  If you turn this to ON, it tries to autofocus.
+* Then, you can use the dial on the bottom to control focus.
+
+*****
 # 1-6-21 Fraser
 Successful, albeit cold session from Fraser.  Here are my notes:
 * Single digit night!  Means ski base layer, balaclava, hand-warmers...but next time, need better foot warming.  Boots?  Hand warmers in the shoes?  Note I *was* out there for about 3 hours...

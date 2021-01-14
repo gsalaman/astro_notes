@@ -1,6 +1,16 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 1-14-21 T7 Prime Daytime tests
+Need to use 2x barlow to get prime focus.  :(
+
+Crosspiece is 2227 pixels.
+It's 540 arc seconds.  
+Meaning we get 4.17 pixels per arc-second...more than Picam prime, but less than picam + barlow.
+
+6000x4000 pixels gives us a FOV of 24'x16'.
+
+*****
 # 1-12-21 Daytime tests
 ## Laptop camera control tests
 ### Exposure

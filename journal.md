@@ -1,6 +1,15 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 1-30-21 Travel Scope Daytime Tests
+With reducer, it takes 5 "nudges" to move an object from one side of the frame to the other.  Looking at the app, each (cw or ccw) nudge is 1 micro-step.  Math:
+```
+200 steps in a rotation
+16 micro-steps in a step, means 3200 micro-steps around the circle (360 degrees).
+Means each micro-step is 360/3200 = .1125 degrees, or 6.75 arc minutes.  5 nudges means my FOV is 33.75 arc minutes wide.
+```
+Note that *doesn't* match my 70 arc-minute calculation...off by about a factor of 2.  Gonna have to try it on the moon tonight...
+*****
 # 1-14-21 T7 Prime Daytime tests
 Need to use 2x barlow to get prime focus.  :(
 

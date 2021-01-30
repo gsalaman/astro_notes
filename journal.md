@@ -9,7 +9,7 @@ With reducer, it takes 5 "nudges" to move an object from one side of the frame t
 Means each micro-step is 360/3200 = .1125 degrees, or 6.75 arc minutes.  
 5 nudges means my FOV is 33.75 arc minutes wide.
 ```
-Note that *doesn't* match my 70 arc-minute calculation...off by about a factor of 2.  Gonna have to try it on the moon tonight...
+Note that *doesn't* match my 70 arc-minute calculation...off by about a factor of 2.  Dug up a pic of the moon from 11/4:  moon was 1790 pixels in diameter.  Checking ephemeris:  moon was 1788 arc seconds.  That's pretty close to 1 pixel per arc second.  :)
 
 I'm also worried about vibration.  Just typing at the chair made the scope wiggle...and it would eventually stabalize.  Is the action of the stepper gonna be too big a vibration?  What about wind?
 
@@ -18,9 +18,9 @@ Plan:
 * switch to travel scope config (with reducer)
 * star no-track streak: 10s, 30s.  Capella?
 * star track test
-* Moon pic for pixels/arcsecond calc.
 
 Optional:
+* M1 with and without ultrablock.
 * M35
 * M42 - travel scope
 * M42 - try filter on T7

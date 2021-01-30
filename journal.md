@@ -6,9 +6,24 @@ With reducer, it takes 5 "nudges" to move an object from one side of the frame t
 ```
 200 steps in a rotation
 16 micro-steps in a step, means 3200 micro-steps around the circle (360 degrees).
-Means each micro-step is 360/3200 = .1125 degrees, or 6.75 arc minutes.  5 nudges means my FOV is 33.75 arc minutes wide.
+Means each micro-step is 360/3200 = .1125 degrees, or 6.75 arc minutes.  
+5 nudges means my FOV is 33.75 arc minutes wide.
 ```
 Note that *doesn't* match my 70 arc-minute calculation...off by about a factor of 2.  Gonna have to try it on the moon tonight...
+
+I'm also worried about vibration.  Just typing at the chair made the scope wiggle...and it would eventually stabalize.  Is the action of the stepper gonna be too big a vibration?  What about wind?
+
+Plan:
+* Align on polaris with picam (wide field)
+* switch to travel scope config (with reducer)
+* star no-track streak: 10s, 30s.  Capella?
+* star track test
+* Moon pic for pixels/arcsecond calc.
+
+Optional:
+* M35
+* M42 - travel scope
+* M42 - try filter on T7
 *****
 # 1-14-21 T7 Prime Daytime tests
 Need to use 2x barlow to get prime focus.  :(

@@ -24,6 +24,9 @@ Optional:
 * M35
 * M42 - travel scope
 * M42 - try filter on T7
+
+And, of course, I got clouded out...
+
 *****
 # 1-14-21 T7 Prime Daytime tests
 Need to use 2x barlow to get prime focus.  :(

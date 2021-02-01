@@ -1,6 +1,13 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 1-31-21 Travel scope night tests
+Notes from tonight:
+* I'm getting better at the polar alignment
+* even with pan-tilt, travel scope is WAAAAY too hard to point.  Time to go to the big EQ platform and do this with the dob...point with eyepiece, turn on tracking, then go to camera.
+* The delay on the RPI cam is annoying.  Wait 6 minutes for a 1 minute exposure???
+* On my 60s pic, I had a weird "dual mode" star thing going on.  Either vibration or I may have gotten stuck...
+*****
 # 1-30-21 Travel Scope Daytime Tests
 With reducer, it takes 5 "nudges" to move an object from one side of the frame to the other.  Looking at the app, each (cw or ccw) nudge is 1 micro-step.  Math:
 ```

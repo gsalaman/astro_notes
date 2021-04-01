@@ -1,6 +1,16 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 3-31-21 Galaxy Prep (lafayette)
+Dragged out the camera and EQ tonight.  Notes:
+* Even cranking shutter speed doesn't let you go past a certain point...so it's easier to just take pics and look at them when star-hopping.
+* You really want to start with the small lens, center the object, then switch to telephoto.  Knowing the star hops helps.
+* Played some with the computer controlled focus.  I think this is gonna be the way to get pin-point....will learn how many "clicks" for each lens position
+* Leo triplet:  look for the stick under Theta!
+* Whirlpool...yeah, probably one of my more famliar hops
+
+...and then the laptop battery didn't like the cold, and I powered down everything by mistake when trying to plug it in.  Calling it a night...
+*****
 # 1-31-21 Travel scope night tests
 Notes from tonight:
 * I'm getting better at the polar alignment

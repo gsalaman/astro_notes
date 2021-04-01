@@ -10,6 +10,14 @@ Dragged out the camera and EQ tonight.  Notes:
 * Whirlpool...yeah, probably one of my more famliar hops
 
 ...and then the laptop battery didn't like the cold, and I powered down everything by mistake when trying to plug it in.  Calling it a night...
+
+### Post observe math
+m51 @ 75mm was 50 pixels long...giving me about 13 arc seconds per pixel.   Previous calcs were at about 10...
+At 300mm we've got 182 pixels...giving me about 3.6 arc seconds per pixel.  Previous calcs were 2.7. 
+
+Those are both pretty close...
+
+
 *****
 # 1-31-21 Travel scope night tests
 Notes from tonight:

@@ -1,6 +1,22 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 4-4-21
+More VS EQ tests....confirmed app and program were happy during the day.  I'm a little worried that my 15 min calc was off.
+
+Aligned, did some experiments on Mizar and Arcturus.  Tracking did not cancel the motion...and was tough to get it to go faster to "reverse" the motion.  Playing with Arcturus, looks like 26ms was the "still" speed...but wasn't consistent.
+
+Switched over to the T7...got some pics for measuring raw pixel drift.  Note:  focus point for barlow is almost all the way out, but camera liveview does decent here (unlike for lenses).  Turned on tracking, same issues.  Took a peek at the bearings, and yup, tape is having issues.  I'm gonna need to do steel.  :(
+
+Practiced Leo triplet, sombrero, and whirlpool hops for next fraser adventure.
+
+Pixel drift measurements:
+10s Mizar = 420 pixels.
+20s = 807
+30s = 1220
+
+
+*****
 # 3-31-21 Galaxy Prep (lafayette)
 Dragged out the camera and EQ tonight.  Notes:
 * Even cranking shutter speed doesn't let you go past a certain point...so it's easier to just take pics and look at them when star-hopping.

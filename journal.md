@@ -15,6 +15,19 @@ Pixel drift measurements:
 20s = 807
 30s = 1220
 
+## other "post" notes
+Did another series of tracking tests inside.  While it looks like the 15 min quick steps "mostly" goes the distance I want, when I change it to the 42ms per step, it only moves half way.  
+
+My theory:  there's enough slip/friction that every slow step doesn't really catch on the wedge...in fact, it looks like we only go about half way...which would correlate to that 26 ms number above...and wouldn't give us an accurate track.
+
+Tried doing a cable-drive...the cable tangles without the channels.  Putting that on hold.
+
+Tried moving the bearings inwards to reduce the angle between wedge and bearing (and got more plasma cutter practice).  Still have some slip...need more tests after I tighten everythiing down.  
+
+Should try the planetary again...are more/smaller steps more resillent to slip?  (overcome friction?)
+
+Or, is it time to go with a circle segment for simplicity...
+
 
 *****
 # 3-31-21 Galaxy Prep (lafayette)

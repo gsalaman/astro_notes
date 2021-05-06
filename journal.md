@@ -1,6 +1,16 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
+******
+# Camera focus by computer
+* Lens goes to autofocus
+* In live view screen:
+  * Depth of field preview is ON
+  * Quick Mode/Automatic mode is OFF
+* should see "MF" on EOS screen.  If not, you should be able to toggle it.
+* Looks like 6 << jogs == one <<< jog.
+
 *****
+
 # 5-5-21
 Camera out in lafayette.
 

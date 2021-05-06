@@ -1,6 +1,20 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 *****
+# 5-5-21
+Camera out in lafayette.
+
+Align was tricky...the camera live-view didn't pick up on polaris.  Instead did it by taking two frames and comparing through the mac "finder" window...not too bad.
+
+The computer controlled focus kept jumping back to the "auto" mode...even though the settings said differently.  Means that to get a crystal focus, I really need to decrease the aperature (f10), meaning more exposure time.  The more I'm zoomed in, the harder the focus.  Although I *can* get it with smaller ap values...
+
+Got decent leo triplet, whirlpool, and herc.
+
+Oh, and dew was an issue.  That might have been some of the trouble with my polaris align and focus...
+
+
+
+*****
 # 4-4-21
 More VS EQ tests....confirmed app and program were happy during the day.  I'm a little worried that my 15 min calc was off.
 

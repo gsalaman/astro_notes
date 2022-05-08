@@ -15,6 +15,8 @@ That then had a 5:1 with the stepper...putting that ratio up to about 290.
 
 Soooo....that means going with the 2 worms will be already more than my 290...in a compact form factor.  I think I like it...
 
+...and, if I need more, I can go to that planetary gear.  It's got 10180 steps per rotation (rather than 3200 for the standard stepper).  
+
 Next, I'm gonna need to see some pixel drift.  Probably want something around the celestial equator...and use the T7 telephoto zoomed in.  I've got some of those measurements below, but would be good to double check.
 
 Then, may be interesting to see if I can get the travel scope "stable"...but using the T7 rather than the Pi.  Check pixel drift there.

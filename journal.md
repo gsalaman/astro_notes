@@ -19,6 +19,11 @@ Next, I'm gonna need to see some pixel drift.  Probably want something around th
 
 Then, may be interesting to see if I can get the travel scope "stable"...but using the T7 rather than the Pi.  Check pixel drift there.
 
+Step size is going to be an interesting goldilocks problem.  
+Too big of a step, and you could have pixel drift between steps.  
+Too small of a step, and you could have error with the controller.  
+My gut feel is that I want something in the ~10ms range.
+
 ------
 Another thought:  do I try and incorporate some sort of finder into the pan-tilt?  Maybe a laser pointer, maybe a dovetail for the orion finder?
 

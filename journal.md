@@ -1,6 +1,28 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 5-8-22  V3 EQ thoughts
+
+Time to start thinking about the EQ platforms again.  My main problem right now is slip...both with the big VS platform and the smaller pan-tilt.  The effect is less pronounced with the smaller one (I can usually get 2ish minutes of exposure), but would like something more solid.
+
+My current diagnosis is that the drive between the "wheel" and the "wedge" is the problem...it's a friction mount.  Instead of going cable drive, I'm thinking of trying a direct gear on the rotation point rather than the wedge.  I'll start with another rev of the small platform, get it happy, and then upscale.
+
+Soooooo...first questin is gears.  Servocity has 27:1 worm gears...if I get two of those, I can get a 729:1 gear ratio.  Add in a 5:1 driver, and I'm in the 3000s.  Now, some math:
+
+The original cs mount had an outer wedge circumference of 57.0325" (18.154" diameter).  
+This was being driven by a .3125 diameter bearing, which then gives you a gear ratio of about 58.  
+That then had a 5:1 with the stepper...putting that ratio up to about 290.  
+
+Soooo....that means going with the 2 worms will be already more than my 290...in a compact form factor.  I think I like it...
+
+Next, I'm gonna need to see some pixel drift.  Probably want something around the celestial equator...and use the T7 telephoto zoomed in.  I've got some of those measurements below, but would be good to double check.
+
+Then, may be interesting to see if I can get the travel scope "stable"...but using the T7 rather than the Pi.  Check pixel drift there.
+
+
+
+
+******
 # Camera focus by computer
 * Lens goes to autofocus
 * In live view screen:

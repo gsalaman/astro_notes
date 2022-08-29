@@ -1,6 +1,12 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 8-29-22 Morning - Jupiter and Saturn
+Woke up at about 2:30 to take some pics of jupiter and saturn.  Jupiter was nice and high in the sky, but I was a little late for saturn....it was about 23 deg up.  Note that if I do midnight, I can get that up to 34...and jupiter was at 50 deg up.
+
+Did a couple sets...started with Jupiter at an ISO of 400 and F1/80 (12.5ms)
+
+
 # 5-8-22  V3 EQ thoughts
 
 Time to start thinking about the EQ platforms again.  My main problem right now is slip...both with the big VS platform and the smaller pan-tilt.  The effect is less pronounced with the smaller one (I can usually get 2ish minutes of exposure), but would like something more solid.

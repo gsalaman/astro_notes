@@ -4,7 +4,15 @@ These are going to be my "raw photography" running notes...in reverse cron order
 # 8-29-22 Morning - Jupiter and Saturn
 Woke up at about 2:30 to take some pics of jupiter and saturn.  Jupiter was nice and high in the sky, but I was a little late for saturn....it was about 23 deg up.  Note that if I do midnight, I can get that up to 34...and jupiter was at 50 deg up.
 
-Did a couple sets...started with Jupiter at an ISO of 400 and F1/80 (12.5ms)
+Did a couple sets...started with Jupiter at an ISO of 400 and F1/80 (12.5ms).  Stacked 157 images; used 33% that were above the 50% quality line.
+Jupiter try number two was with the ISO cranked to 6400...meaning I could take the speed down to F1/1250 (or 800us).  Had 205 frames of this...but quality was *MUCH* worse.  (25% av rather than 50%).  Used 33% of the frames again...didn't stack well at all.  Weird artifacts.  
+
+Now, saturn.  
+ISO 400 with f1/15 (66ms).  Stacked 170 frames; quality level was back to decent...about 1/3 above the 50% line, so stacked 33%.   Chromatic ab with this, so I went to creating luminecence to remove that artifact.  Also took out the first couple test pics...which altered the quality curve, so I stacked only 25%.  Okay result...no A-gap.
+
+Next, the 6400 iso (f1/160 or 6.25ms).  128 frame stack.  Quality graph much better than the jupiter one...I wonder if I had test images that were messing things up there.  End stack result was the same as with the lower iso...maybe a hair better.
+
+Went back and tried to be more selective on the 6400 jupiter...yup....quality graph much better.  took top 25% (of 200).  Hmmm...still had the blotch.  And higher iso is definitly grainer.
 
 
 # 5-8-22  V3 EQ thoughts

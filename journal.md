@@ -1,6 +1,13 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 8-30-22 Saturn and Jupiter from Fraser
+Wanted to catch saturn a little higher...sky was 5-4-3.  Did multiple sets with between 30 and 35 deg.
+
+Favorite parms are iso 400, f1/20.  Key is the focus...spend time dialing it in.  Hard with the orion focusers; need to try the feathertouch on the obsession.
+
+Oh, and grabbed the red spot just starting to make an appearance before I pumpkined.
+
 # 8-29-22 Morning - Jupiter and Saturn
 Woke up at about 2:30 to take some pics of jupiter and saturn.  Jupiter was nice and high in the sky, but I was a little late for saturn....it was about 23 deg up.  Note that if I do midnight, I can get that up to 34...and jupiter was at 50 deg up.
 

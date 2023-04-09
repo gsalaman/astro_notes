@@ -1,6 +1,12 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+
+# 4-9-23  Daytime T7 + Travel scope test
+Crosspiece is ~260 pixels...field is 6000x4000 pixels.
+At 540 arc-seconds for the cross-piece, that's about 2 arcseconds per pixel...meaning field is 3000x2000 arc-seconds, or 50x33 arc-minutes...a little less than a degree across and more than half a degree up.  This should be GREAT for galaxies, which run somewhere around 10 arc-minutes across!!!
+
+
 # 8-30-22 Saturn and Jupiter from Fraser
 Wanted to catch saturn a little higher...sky was 5-4-3.  Did multiple sets with between 30 and 35 deg.
 

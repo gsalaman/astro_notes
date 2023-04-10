@@ -1,6 +1,8 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 4-9-23  Nighttime T7 + Travel scope
+Measurement:  the two stars around herc are 30 arc-minutes apart...and with the T7 at prime in the travel scope, yields 668 pixels.  That's 22.25 pixels per arc-minute.  Meaning my FOV is 267x180 arc-minutes...offf by a factor of 5 or 6!!  Maybe I measured the wrong cross-piece?  4.5x3 degree FOV?
 
 # 4-9-23  Daytime T7 + Travel scope test
 Crosspiece is ~260 pixels...field is 6000x4000 pixels.

@@ -1,6 +1,14 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+
+# 4-11-23 Orion, Leo, Beehive, Sombrero
+Good session down in lafayette.  My notes:
+* The CLS filter is the bomb.  Only knocks out the mid Na and Hg lines...so you get decent transmission...as opposed to the UHC, which doesn't give ya the upper lines.
+* Focusing is *TOUGH*.  Want a better scope with a dual-speed
+* Star-hopping is also tough.  The crappy finder than came with the T70 is almost useless (even though I aligned it in daytime.  Best way was to go visual and eyepiece hop with a 20mm lens, then put in the camera, adjust focus again, and finish centering via the fine control knobs.  Got a reflex finder coming that should help.
+* And speaking of the diagonal, it had trouble holding the eyepiece.   Cheap plastic.  :(  Another reason to get a better scope.
+
 # 4-9-23  Nighttime T7 + Travel scope
 Measurement:  the two stars around herc are 30 arc-minutes apart...the old pic with the telephoto yields 668 pixels.  That's 22.25 pixels per arc-minute.  Meaning my FOV is 267x180 arc-minutes...4.5x3 degree FOV...which matches my old calc.  Now, with the travel setup, its 958 pixels, or 32 pixels per arc-minute.  FOV is 187.5x125 arc-minutes, or about 3x2 degrees.  Better, but off by about a factor of 3 from my daytime calc.  Each pixel is about 2 arc-seconds.
 

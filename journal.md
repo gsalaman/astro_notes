@@ -1,6 +1,9 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 4-15-23 Redo Celestron Prime Calculation
+Okay, found the error.  Crosspiece is about 250 pixels.  It spans 540 arc-seconds.  That's a little more than 2 pixels per arc-second (NOT 2 arc-seconds per pixel!!!).  Complete math yields .463 pixels per arc-second...or 27.78 pixels per arc-minute...which is close to the 22.25 number from 4/9.  WHEW!
+
 
 # 4-11-23 Orion, Leo, Beehive, Sombrero
 Good session down in lafayette.  My notes:
@@ -13,6 +16,8 @@ Good session down in lafayette.  My notes:
 Measurement:  the two stars around herc are 30 arc-minutes apart...the old pic with the telephoto yields 668 pixels.  That's 22.25 pixels per arc-minute.  Meaning my FOV is 267x180 arc-minutes...4.5x3 degree FOV...which matches my old calc.  Now, with the travel setup, its 958 pixels, or 32 pixels per arc-minute.  FOV is 187.5x125 arc-minutes, or about 3x2 degrees.  Better, but off by about a factor of 3 from my daytime calc.  Each pixel is about 2 arc-seconds.
 
 # 4-9-23  Daytime T7 + Travel scope test
+THIS CALC IS WRONG...SEE 4-15 above!!!
+
 Crosspiece is ~260 pixels...field is 6000x4000 pixels.
 At 540 arc-seconds for the cross-piece, that's about 2 arcseconds per pixel...meaning field is 3000x2000 arc-seconds, or 50x33 arc-minutes...a little less than a degree across and more than half a degree up.  This should be GREAT for galaxies, which run somewhere around 10 arc-minutes across!!!
 

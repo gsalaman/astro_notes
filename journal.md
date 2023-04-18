@@ -1,6 +1,17 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 4-17-23 Lara & Andy
+Did some targets from Lafayette; started by doing an align and quick orion grab.  Then we hopped over to the Whale and Hockey stick...hadn't done those yet!  Hopping took a little bit...that camera frame is 3x2 degrees, but we eventually got there.
+
+Tried taking some Raw as well as std JPGS...looks like the focus is a little off...we'll see how they do.
+
+# 4-16-23 Owl & M109
+Targets:  
+* crab (meh...try in better skies)
+* leo triplet (meh)
+* Owl & M108...good.  processing did well here.
+
 # 4-15-23 Redo Celestron Prime Calculation
 Okay, found the error.  Crosspiece is about 250 pixels.  It spans 540 arc-seconds.  That's a little more than 2 pixels per arc-second (NOT 2 arc-seconds per pixel!!!).  Complete math yields .463 pixels per arc-second...or 27.78 pixels per arc-minute...which is close to the 22.25 number from 4/9.  WHEW!
 

@@ -1,6 +1,9 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 4-19-23 T7 + Celestron visual calcs
+So Afocal pic through the 20mm eyepiece:  crosspiece is about 200 pixels.  FOV diameter is about 4250 pixels.
+
 # 4-17-23 Lara & Andy
 Did some targets from Lafayette; started by doing an align and quick orion grab.  Then we hopped over to the Whale and Hockey stick...hadn't done those yet!  Hopping took a little bit...that camera frame is 3x2 degrees, but we eventually got there.
 

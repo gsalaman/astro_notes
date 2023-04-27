@@ -1,6 +1,17 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 4-27-23 The Televue-85
+Arrived today!  Visual is awesome...with the diagonal, all the eyepieces are happy!
+
+Pixel calc:  Crosspiece is about 400 pixels.  It spans 540 arc-seconds.  That means we're at 1.35 arc-seconds per pixel.
+
+FOV is 6000x4000 pixels...so thats 4444x2962 arc-seconds, or 74x49 arc minutes...just over a degree by just under a degree.  Neat!!!
+
+Focal length sanity check:  we're 600mm rather than 400mm...meaning we should be 2/3 the FOV.  2/3 of 3 degrees is 2 degrees...so I'm off by a bit...hmmmm.
+
+
+
 # 4-19-23 T7 + Celestron visual calcs
 So Afocal pic through the 20mm eyepiece:  crosspiece is about 200 pixels.  Those 200 pixels represent 540 arc seconds (or 9 arc minutes).  FOV diameter is about 4250 pixels....which, divided by 200, gives me 21.25 "cross pieces"...times 9 arc-minutes per cross piece, gives 191.25 arc-minutes.  Hey, back to 3 degrees!  So that eyepiece is ABOUT the FOV of the camera!  Cool!
 

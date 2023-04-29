@@ -1,6 +1,26 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 4-28-23 First light:  moon
+Notes:
+The 85 + camera is *JUST* at the limit of the weight allowed on that SkyWatcheer EQ:  
+* cam is 1.6# (with extender and 2" t-ring)
+* mount plate with counterweight (don't know if this one counts) is 3.56#
+* Scope with mount ring is 6.4#
+
+Total:  11.5...rated at 11.
+
+So, on the list for upgrade:  better EQ platform. 
+But, with that said, tracking looked good.  It *was* more susceptable to bumps, and adjusting focus definitely caused vibration.
+
+Moon was 1410 pixel diameter...ephemeris says it's apparant diameter is .494 degrees...or 29.64 arc minutes or 1778 arc seconds.
+Gives us:
+* 1.26 arc-seconds per pixel
+* .79 pixels per arc-second
+
+Close to that 1.35 calc...and puts our display at 80 arc-minutes by 53 arc-minutes.  
+
+
 # 4-27-23 The Televue-85
 Arrived today!  Visual is awesome...with the diagonal, all the eyepieces are happy!
 

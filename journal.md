@@ -1,6 +1,14 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 5-1-23 Quick filter note
+So the Canon DLSR has an internal IR cutoff filter...which should kill the Ha line (at 656nm).    
+Orion's Skyglow starts passing red light again at right about that line, but it looks like SVBONY's CLS passes a little earlier (maybe 640ish?).
+
+That's probably why I get better reds out of the eagle and omega (from the 8/5/21 pics) than I am from the recent pics.
+
+I think I have a narrowband Ha filter...would be interesting to try that on the canon and see the results...
+
 # 4-28-23 First light:  moon
 Notes:
 The 85 + camera is *JUST* at the limit of the weight allowed on that SkyWatcheer EQ:  

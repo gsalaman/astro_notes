@@ -1,7 +1,16 @@
 # T7 Optics
-| Setup | Pixels/Arcsecond | FOV | Jupiter | Saturn |
-| ------ | ------- | ------- | ------- | ------- |
-| | | | | | |
+| Setup | Pixels/Arcsecond | FOV | Jupiter | Saturn | notes |
+| ------ | ------- | ------- | ------- | ------- | ----- |
+| 18 mm | | | | | | |
+| 55 mm | | | | | | | |
+| 75 mm | | | | | | | |
+| 300 mm | | | | | | | |
+| TV-85 prime | | | | | | | |
+| 10" prime | | | | | | | |
+| 10" prime barlow | | | | | | | |
+| 12" prime | | | | | | | |
+| 12" prime barlow | | | | | | | |
+| 18" Obsession | | | | | | | |
 
 
 

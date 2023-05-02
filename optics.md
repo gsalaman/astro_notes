@@ -9,7 +9,7 @@
 | 10" prime | | | | | | | cant get prime focus.  Try 2" extender! |
 | 10" prime barlow | 4.17 | 24' x 16' | | | | | |
 | 12" prime | | | | | | | |
-| 12" prime barlow | | | | | | | |
+| 12" prime barlow | 5.25 | | | | | | |
 | 18" Obsession | | | | | | | |
 
 

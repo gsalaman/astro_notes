@@ -1,3 +1,10 @@
+# T7 Optics
+| Setup | Pixels/Arcsecond | FOV | Jupiter | Saturn |
+| ------ | ------- | ------- | ------- | ------- |
+| | | | | | |
+
+
+
 # Orion 10" dob
 1200mm focal length  
 254mm aperature  

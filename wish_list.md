@@ -24,3 +24,9 @@ So, the Canon DLSR has an internal IR filter...meaning we don't get the Ha line.
 Should upgrade focusers on the 10" and 12".  Probably start with the 10".
 Orion's dedicated one is a safe bet, but it's continously back-ordered.  Maybe look at a better focuser?
 
+## Planet Mag
+So if I stick with the TV-85, I only get 1.35 arc-seconds per pixel.  This means:
+* Jupiter:  60 arc seconds = 44 pixels
+* Saturn:  20 arc seconds = 15 pixels
+
+So, if I want to keep on this route, the right answer may be a powermate.  Need to do math to make sure the focus path isn't extended a bunch (the 2x barlow puts focus spot WAY outside focuser range).

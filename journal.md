@@ -1,6 +1,10 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 5-7-23 Astrometry.net
+Okay, found a real cool site.  It does plate solving...which basically shows you WHERE any given picture is in the sky.  Also gives arc-seconds per pixel and FOV.  
+nova.astrometry.net
+
 # 5-1-23 Quick filter note
 So the Canon DLSR has an internal IR cutoff filter...which should kill the Ha line (at 656nm).    
 Orion's Skyglow starts passing red light again at right about that line, but it looks like SVBONY's CLS passes a little earlier (maybe 640ish?).

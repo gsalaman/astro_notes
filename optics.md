@@ -4,7 +4,7 @@
 | 18 mm | 1/54 | | 90 deg x 60 deg | | | | 
 | 55 mm | 1/15.88 | | 26 deg x 18 deg | | | |
 | 75 mm | 0.1 | | 16 deg x 10 deg | | | |
-| 300 mm | 0.38 | | 4.5 deg x 3 deg | | | |
+| 300 mm | 0.38 | 2.7 | 4.5 deg x 3 deg | | | confirmed with astrometry.net |
 | Cel. Travel prime | | 1.92 | 3.2 deg x 2.13 deg | | | calc from astrometry.net |
 | TV-85 prime | .79 | 1.26 | 80' x 53' | | | moon measurement |
 | 10" prime |  | | | | | cant get prime focus.  Try 2" extender! |

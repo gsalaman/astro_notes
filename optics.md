@@ -1,16 +1,17 @@
 # T7 Optics
-| Setup | Pixels/Arcsecond | FOV | Jupiter | Saturn | notes |
+| Setup | Pixels/Arcsecond | Arcseconds/pixel | FOV | Jupiter | Saturn | notes |
 | ------ | ------- | ------- | ------- | ------- | ----- |
-| 18 mm | 1/54 | 90 deg x 60 deg | | | | |
-| 55 mm | 1/15.88 | 26 deg x 18 deg | | | | | |
-| 75 mm | 0.1 | 16 deg x 10 deg | | | | | |
+| 18 mm | 1/54 | | 90 deg x 60 deg | | | | |
+| 55 mm | 1/15.88 | | 26 deg x 18 deg | | | | | |
+| 75 mm | 0.1 | | 16 deg x 10 deg | | | | | |
 | 300 mm | 0.38 | 4.5 deg x 3 deg | | | | | |
-| TV-85 prime | .79 | 80' x 53' | | | | | |
-| 10" prime | | | | | | | cant get prime focus.  Try 2" extender! |
-| 10" prime barlow | 4.17 | 24' x 16' | | | | | |
-| 12" prime | | | | | | | |
-| 12" prime barlow | 5.25 | | | | | | |
-| 18" Obsession | | | | | | | |
+| Cel. Travel prime | | 1.92 | 2.2 deg x 1.5 deg | | | | | calc from astrometry.net |
+| TV-85 prime | .79 | | 80' x 53' | | | | | |
+| 10" prime |  | | | | | | | cant get prime focus.  Try 2" extender! |
+| 10" prime barlow | 4.17 | | 24' x 16' | | | | | |
+| 12" prime |  | | | | | | | |
+| 12" prime barlow | 5.25 |  | | | | | | |
+| 18" Obsession | | | | | | | | |
 
 
 

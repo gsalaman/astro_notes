@@ -5,6 +5,10 @@ These are going to be my "raw photography" running notes...in reverse cron order
 Okay, found a real cool site.  It does plate solving...which basically shows you WHERE any given picture is in the sky.  Also gives arc-seconds per pixel and FOV.  
 nova.astrometry.net
 
+Put in data from Whale/Hockey stick and Owl/M108.   Got them.  Setup:  Canon T7 prime with celestron travel scope.  Astrometry calculated 1.92 arcseconds per pixel; FOV 2.2 deg by 1.5 deg.
+
+My math had me at 2.16...not too bad!!!
+
 # 5-1-23 Quick filter note
 So the Canon DLSR has an internal IR cutoff filter...which should kill the Ha line (at 656nm).    
 Orion's Skyglow starts passing red light again at right about that line, but it looks like SVBONY's CLS passes a little earlier (maybe 640ish?).

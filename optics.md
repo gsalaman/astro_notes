@@ -8,7 +8,7 @@
 | Cel. Travel prime | | 1.92 | 3.2 deg x 2.13 deg | | | calc from astrometry.net |
 | TV-85 prime | .79 | 1.26 | 80' x 53' | | | moon measurement |
 | 10" prime |  | | | | | cant get prime focus.  Try 2" extender! |
-| 10" prime barlow | 4.17 | | 24' x 16' | | | |
+| 10" prime barlow | ~4 | | 24' x 16' | ~190 pixels | | |
 | 12" prime |  | | | | | |
 | 12" prime barlow | 5.25 | | | | | |
 | 18" Obsession | | | | | | |

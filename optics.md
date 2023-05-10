@@ -10,7 +10,7 @@
 | 10" prime |  | | | | | cant get prime focus.  Try 2" extender! |
 | 10" prime barlow | ~4 | | 24' x 16' | ~190 pixels | | |
 | 12" prime |  | | | | | |
-| 12" prime barlow | 5.25 | | | | | |
+| 12" prime barlow | ~5.2 | | | ~250 pixels | | |
 | 18" Obsession | | | | | | |
 
 

@@ -1,6 +1,19 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 5-15-23 Lafayette with the TV-85
+FINALLY got a chance to break out the Televue for real!  Skies were 5/2-3/3.
+
+Setup and polar align went well...then did a focus test on Vega with the Bahtinov mask to dial in focus.  Started on Alkaid, and hopped over to the whirlpool...took a while, but using stellarium as my chart helped.  I'm gonna update that map now that I've done it...
+
+Did the exposure stuff from the astrophotograpy book...and yeah, the whirlpool popped!!! Started collecting lights, and pinged Andy (looked like he was still awake).  Then I noticed streaks in the lights...did my batteries die?  Nope...meridian flip put the camera against the tripod!  Boo!!!  Showed off some of the pics to Andy and Lara online, then started to meridian flip, when a big cloud came in. ('bout 11:30pm)  Checked east...I can wait this one out.
+
+Decided to switch to herc; went visual to get it centered, then switched over to the cam.  Tried the mask for focusing, but the diffraction lines were too dim...gonna want to print that other version and see if it's better.  Spent some time focusing by hand, then took a bunch of "lights".  Did darks next, then Flats, then flat-darks.   Forgot the bias....we'll see how the calibration compares.
+
+Past 1am now; but have to try the ring!!!  Just do the pointer, and yeah, able to get it in frame...and it's a little bigger than I expect.  
+
+Curious to see how these all process...
+
 # 5-7-23 Astrometry.net
 Okay, found a real cool site.  It does plate solving...which basically shows you WHERE any given picture is in the sky.  Also gives arc-seconds per pixel and FOV.  
 nova.astrometry.net

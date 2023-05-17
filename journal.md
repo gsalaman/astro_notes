@@ -1,6 +1,21 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 5-16-23 Fraser with the TV-85
+So after last night, I decided to make the trek to Fraser for some imaging.  Skies 5-2-3, but WOW.
+
+After first target (leo triplet), strategy was to periodically check focus with the Bahtinov mask, and use finder to help hopping.  
+
+Got M53; then took a while to get to blackeye.  Kept trying to hop, and used astrometry.net as a cheat sheet...but then I found it was better to just see where in the sky I should be pointing, put the finder there, and use that with stellarium as a starting point.  First try, right on the blackeye!  And WOW.
+
+Other targets:  Herc, whirlpool, ring, and then dumbbell.  Couple notes:
+I did the flats for ring and dumbell using the paper box method the next morning.  Curious to see if the flats help...there is definitly a mote on the right side of the frame..
+
+Started to see tracking effects as the night went on.  I think that's because I did an intermediate polar align, and didn't crank down the az screws...so it would occasionally slip.
+
+Oh, and none of this was using a filter...raw skies (other than the internal IR cutof in the canon.)
+
+
 # 5-15-23 Lafayette with the TV-85
 FINALLY got a chance to break out the Televue for real!  Skies were 5/2-3/3.
 

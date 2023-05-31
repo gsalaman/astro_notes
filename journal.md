@@ -1,6 +1,26 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 5-30-23 ZWO 533MC Pro first light
+So the new cam arrived today...didn't think I'd get a chance to break it out, but when I peeked outside just after 9, we had clear skies!!!!  Okay, so we'll do real-time focus tests...even though the moon is at 82%.
+
+Started with Vega visual align.  First tried just one of the 42 rings; couldn't get focus even with the 2" extender.  Tried the diagonal, and yeah, that got us there.  Problem is that going through the mirror flips the image, so star hopping was a pain!  
+
+ASIStudio's ASICap works pretty well, but a little klunky on the IF.  I like being able to do previews....either continuous or "single shot"...and then saving those to disk.  You can then set up exposure "jobs" which will save your frames to a folder under the default.  Pretty cool.  
+
+Did the new mask with Vega...worked pretty well.  I'm not sure it's gonna get the dimmer stars, but for vega it was WAY easy.
+
+Herc next...some star hopping issues.  Hard with the diagonal to sight down the red-dot...and it's not a very good finder.  Time to do the telerad bracket.
+
+M101 next...and yeah, got the supernova!!!!!  Even with the moon!
+
+Interesting note...the color isn't a vibrant as I expected.  Should do alberio and see...but I'm not getting "red" for the Ha regions.  Maybe try the filter and see what happens?
+
+
+## Fits viewer notes
+Binning is the process of combining surrounding pixels to create a master pixel.  2x2 binning takes your orignal image, and takes every 4 pixels to create a "super pixel"...but that means you lose half (quarter?) your resoluion....3kx3k goes to 1500x1500.
+
+
 # 5-16-23 Fraser with the TV-85
 So after last night, I decided to make the trek to Fraser for some imaging.  Skies 5-2-3, but WOW.
 

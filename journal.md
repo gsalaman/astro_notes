@@ -20,6 +20,11 @@ Interesting note...the color isn't a vibrant as I expected.  Should do alberio a
 ## Fits viewer notes
 Binning is the process of combining surrounding pixels to create a master pixel.  2x2 binning takes your orignal image, and takes every 4 pixels to create a "super pixel"...but that means you lose half (quarter?) your resoluion....3kx3k goes to 1500x1500.
 
+## focus notes
+With diagonal, we were out about 5.5 cm.
+Diagonal adds somewhere between 10-11 cm...makeing a total of somewhere in the 16 cm range.
+Now, meauring the WO extender...its only about 6.5"cm...meaning I need another 10cm!
+
 
 # 5-16-23 Fraser with the TV-85
 So after last night, I decided to make the trek to Fraser for some imaging.  Skies 5-2-3, but WOW.

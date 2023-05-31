@@ -23,7 +23,8 @@ Binning is the process of combining surrounding pixels to create a master pixel.
 ## focus notes
 With diagonal, we were out about 5.5 cm.
 Diagonal adds somewhere between 10-11 cm...makeing a total of somewhere in the 16 cm range.
-Now, meauring the WO extender...its only about 6.5"cm...meaning I need another 10cm!
+Now, meauring the WO extender...its only about 6.5"cm...meaning I need another 3-4 cm!
+I can get up to 8 cm with the televue focuser...that gets me close.  Then maybe if I add in the other 1.5cm extender...and back it out of the tube?  Or just buy the 3.5" televue extender...
 
 
 # 5-16-23 Fraser with the TV-85

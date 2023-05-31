@@ -16,6 +16,8 @@ M101 next...and yeah, got the supernova!!!!!  Even with the moon!
 
 Interesting note...the color isn't a vibrant as I expected.  Should do alberio and see...but I'm not getting "red" for the Ha regions.  Maybe try the filter and see what happens?
 
+## Image scale
+From nova.astrometry.net:  Looks like we're 1.29 arc-seconds per pixel.  FOV is just over 1deg square.
 
 ## Fits viewer notes
 Binning is the process of combining surrounding pixels to create a master pixel.  2x2 binning takes your orignal image, and takes every 4 pixels to create a "super pixel"...but that means you lose half (quarter?) your resoluion....3kx3k goes to 1500x1500.

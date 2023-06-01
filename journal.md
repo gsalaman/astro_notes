@@ -1,6 +1,14 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 6-1-23 Daytime tests
+Tried without the diagonal on the telephone pole...with the 2" extender and the two extra extenders on the camera, you can get focus with it backed out some.  Pretty stable in that config.
+
+Color is off....and I think that's because of IR and auto exposure.  Not really a problem...I want the IR for the galaxies.  
+
+Important note:  Don't try and talk to Alli about this stuff...it'll just annoy her.  :(
+
+
 # 5-30-23 ZWO 533MC Pro first light
 So the new cam arrived today...didn't think I'd get a chance to break it out, but when I peeked outside just after 9, we had clear skies!!!!  Okay, so we'll do real-time focus tests...even though the moon is at 82%.
 

@@ -1,13 +1,25 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 6-19-23 Fraser
+We've had unprecidented rain for the past few weeks.   Took the setup to Fraser...had Andy and Lara up the weekend of the 17th...tried to get some pics of the supernova with Lara, but we got clouded out before we were able to hop to M101.
+
+So....enter monday night.  Clear all day...forecast called for 5-5-1...and that 5 transparency did not dissapoint!  We're pretty much on the solstace, so Astro twilight ends at about 10:30.  
+
+Nailed the polar alignment, got the focus on Vega with the mask, and took a couple pics of alberio. Hopped pretty quickly to M101.  Plate solving to identify the stars helps...and then running with Stellarium.  I need to figure out if I can rotate that view in stellarium to help my brain...most of the time, we were 180 degrees rotated (which is better than the flip from the diagonal, but...)
+
+Post process notes:  SW binning is cool! 
+
+Did the ring and dumbbell...grabbed a bunch of frames for each, including darks.  We'll see how they stack.
+
+M81 and M82 turned out great!
+
+Got a couple Oiii and Ha pics of the veil...will be interesting to see how they combine.
+
 # 6-1-23 Daytime tests
 Tried without the diagonal on the telephone pole...with the 2" extender and the two extra extenders on the camera, you can get focus with it backed out some.  Pretty stable in that config.
 
 Color is off....and I think that's because of IR and auto exposure.  Not really a problem...I want the IR for the galaxies.  
-
-Important note:  Don't try and talk to Alli about this stuff...it'll just annoy her.  :(
-
 
 # 5-30-23 ZWO 533MC Pro first light
 So the new cam arrived today...didn't think I'd get a chance to break it out, but when I peeked outside just after 9, we had clear skies!!!!  Okay, so we'll do real-time focus tests...even though the moon is at 82%.

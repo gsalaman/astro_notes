@@ -1,6 +1,13 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 7-8-23 Fraser
+Saturday night up in Fraser.  Tonight looked iffy depending on the forecast, but got a decent window through some light clouds.  Reported as 5-4-2/3.
+
+Got good pics of the Lagoon, Trifid, and Eagle.  Decent polar align, but some mount issues...hard to get more than a 60s exposre...the 120s were all a little fuzzy.  There's my reason to buy the new mount...coming on wednesday!
+
+No stacking, no filters, but I'm getting MUCH better at curve adjusting!
+
 # 6-19-23 Fraser
 We've had unprecidented rain for the past few weeks.   Took the setup to Fraser...had Andy and Lara up the weekend of the 17th...tried to get some pics of the supernova with Lara, but we got clouded out before we were able to hop to M101.
 

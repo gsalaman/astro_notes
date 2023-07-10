@@ -1,6 +1,23 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 7-9-23 Fraser night 2
+This was a much clearer night...even though it still said 5-5-3...but I think the seeing was worse.
+
+Really tried to dial in the focus...still some issues.  Hoping that's mount tracking...the iOptron CEM26 comes wednesday.
+
+Started by aligning and focusing on Antares.  Had some haloing without the mask...but only on bright stars.  Maybe dew?  Maybe telescope just not acclimated?
+
+Tried a quick M4...trees got in the way too quick.
+
+Was trying to hop to eagle, but got omega instead.  Decent, but still 60s is about the limit.
+
+Loads of time on eagle. Got a bunch of 30s and 60s frames I'm gonna try stacking.
+
+Then went wild duck.  Focus a little off...adjusted by hand without mask.
+
+Hopped back to eagle to see if that was better, but still only around 60s were best.
+
 # 7-8-23 Fraser
 Saturday night up in Fraser.  Tonight looked iffy depending on the forecast, but got a decent window through some light clouds.  Reported as 5-4-2/3.
 

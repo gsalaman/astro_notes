@@ -1,6 +1,17 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 7-13-23 First night with iOptron
+Got to play with the CEM26 from iOptron.  Thoughts:
+
+Took iPolar a little while to start finding stars...was about 30min from astro twilight.  May have been a reset in there.
+
+Polar align looks like it was pointing dependent...meaning maybe the adjustment knobs need to be tighter?  Had to do a re-align when pointing on M101.
+
+Took a bit to figure out that time was local, and then offset (-420) to get to UTC...once I got that, (and corrected my latitude to be *west*), the align target suggestins were much better.  Did a couple specific target aligns...after that, was able to go directly to M27 and M101.  Wasn't able to get the whale.
+
+Tracking is still off when trying to get 2-3 minute exposures.  :(  Gonna try and see if the PEC does it; maybe I have to do autoguiding to get my "nuts on" versions.
+
 # 7-9-23 Fraser night 2
 This was a much clearer night...even though it still said 5-5-3...but I think the seeing was worse.
 

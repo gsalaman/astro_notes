@@ -1,6 +1,43 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 7-15 Fraser (5-4-3)
+Did a little more deliberate setup with the mount this time.  I think my tracking error last time was because I didn't do the rotation step accurately with iPolar...and therefore didn't have the rotation right.
+
+Was able to get stars pretty quickly with iPolar...I *think* this is the procedure:
+* Start with cap *OFF* (seeing the sky)
+* put on cap when requested for dark frames
+* remove as requested....and THEN hit okay
+* clear x&y
+* Move mount to 90 deg RA
+* click button on left...calibrate?  find center?
+* rotated to zero position when asked
+* then finish alignment with knobs.
+
+Was able to have both iPolar and AsiImg running at the same time...was cool to be able to just glance and see polar was still good.  This worked until I had a Mac sleep event...turn that off in future?
+
+Tried to set up the goto...trouble getting zero right on polaris.  Got the one star align done, but lost patience on the 3 star.  However, coming back to the one star worked pretty well for all targets *except* the eagle.
+
+## Eagle take 1
+Tracking looked good, but when I tried to do 5min, had tracking just stop...I think it's a meridian flip issue.  Came back to this later.
+
+## Deer Lick
+Did a 1 star align on altair that I used well for the rest of the evening.  Got a couple good shots of the deer lick...and you can get a little of Stephen's quintet in the frame.
+
+## Bubble
+Got a bunch of 30s shots here I wanna try stacking.  Probably should return with a filter though.
+
+## NGC 891
+Got a bunch of 30s, 60s, and then a couple 1m and 2m for comparision.  Gonna stack and see.
+
+## Return to Eagle
+On round 2 I was able to get a good 3 min shot, along with a bunch of 30s that I'm gonna try stacking.
+
+## Hot pixels?
+Did notice the occasional red/green/blue pixels.  When I woke up, I went ahead and took some darks...we'll see if they do their thing with the stacking.
+
+
+
 # 7-13-23 First night with iOptron
 Got to play with the CEM26 from iOptron.  Thoughts:
 

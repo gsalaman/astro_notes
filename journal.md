@@ -1,6 +1,14 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 7-16 Galaxy Tour from Fraser (5-4-2)
+Did the back deck this time, as I wanted to focus Coma/Canis Ventaci/Ursa galaxies.
+
+iPolar went great and tracked pretty close all night long.  Key is to take OFF the cover when powering it up (I think it sets gain there), then only cover when doing darks.  Oh, and make sure you clear the camera x/y and calibrate it.
+
+Also more success with the GoTo.  I did a one star align in the area I'm going to (Arcturus in this case), and then would peridically do "sync to target" to keep the data well.  It pretty much had the object in frame every time...but did need to do a little more plate solve when I went from Ursa to Cass (double-double).
+
+
 # 7-15 Fraser (5-4-3)
 Did a little more deliberate setup with the mount this time.  I think my tracking error last time was because I didn't do the rotation step accurately with iPolar...and therefore didn't have the rotation right.
 
@@ -35,6 +43,11 @@ On round 2 I was able to get a good 3 min shot, along with a bunch of 30s that I
 
 ## Hot pixels?
 Did notice the occasional red/green/blue pixels.  When I woke up, I went ahead and took some darks...we'll see if they do their thing with the stacking.
+
+## Post processing
+Okay, got some great tracking results!  The eagle, bubble, and 891 stacks went great!  I took a bunch of darks the morning before...those got rid of those hot pixels. 
+
+Had a little trouble with doing stacks with the longer (but fewer) exposures with darks...but didn't dig into what was going on there.
 
 
 

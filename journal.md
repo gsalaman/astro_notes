@@ -6,7 +6,9 @@ Set up the Televue on the CEM and did some crosspiece pics to see what afocal re
 
 With the 6mm radian, the cross piece was 1727 pixels.....and it's virtual length is 540 arc-seconds.  means I'm just over 3 pixels per arc-second...meaning we'll be somewhere on the order of 150 pixels.  
 
-If I barlow this, I should be at 300...
+If I barlow this, I should be at 300...but that's super-dark.  
+
+Trying the 4mm radian...
 
 # 7-16 Galaxy Tour from Fraser (5-4-2)
 Did the back deck this time, as I wanted to focus Coma/Canis Ventaci/Ursa galaxies.

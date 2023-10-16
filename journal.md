@@ -8,7 +8,8 @@ With the 6mm radian, the cross piece was 1727 pixels.....and it's virtual length
 
 If I barlow this, I should be at 300...but that's super-dark.  
 
-Trying the 4mm radian...
+Trying the 4mm radian...in movie mode, it gives about 850 pixels...(meaning jupiter would only be 77 pixels).  But, in regular, it gives 2571, meaning jupiter would be 233 pixels.  That's doable!
+
 
 # 7-16 Galaxy Tour from Fraser (5-4-2)
 Did the back deck this time, as I wanted to focus Coma/Canis Ventaci/Ursa galaxies.

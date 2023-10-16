@@ -1,6 +1,11 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 10-16-23 Afocal experiments
+Set up the Televue on the CEM and did some crosspiece pics to see what afocal resolution I could get.
+
+With the 6mm radian, the cross piece was 1727 pixels.....and it's virtual length is 540 arc-seconds.  means I'm just over 3 pixels per arc-second...
+
 # 7-16 Galaxy Tour from Fraser (5-4-2)
 Did the back deck this time, as I wanted to focus Coma/Canis Ventaci/Ursa galaxies.
 

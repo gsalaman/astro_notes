@@ -1,6 +1,20 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 10-16-23 Nighttime planets
+Had to do two takes through polar alignment...didn't tighten down one of the legs on the tripod, so when I raised it, the center of rotation had moved.   Took me a while to figure this one out.
+
+Doing visual with the CEM mount is pretty cool..even with the 4mm radian, it was able to keep saturn and jupiter centered in frame.  There is a little bit of "wiggle"...more on that below.
+
+Afocal is tough to get aligned with the camera!!  Couldn't get saturn with the 4mm, so I went to jupiter (brighter), and ended up doing the 6mm rather than the 4.  
+
+A few takes through processing:
+* Let the mount track, and manually take pics.  You can hear the gears go about once per second...I think that's the wobble, and you get a smidge of blurryness there.  By doing pics by hand, you can randomly space where those are taken wrt the wobble.  Had a decent "quality curve" on these.
+* Same as above, but do contiunous shooting.  Was worried that the vibration caused by taking the pic would move the mount...and yes, it does.   A little worse than above.
+* Now, turn off tracking and just take pics.  The corrections are a little easier because they're just in the RA direction.  I thought this would be best, but oddly, it was the worst quality graph in auttostackkart.
+* The winner:  use live-view to zoom in, and do a quicktime screen grab!  Got 44k frames of jupiter than gave me a crap-ton of detai when stacked!
+
+
 # 10-16-23 Afocal experiments
 Set up the Televue on the CEM and did some crosspiece pics to see what afocal resolution I could get.
 

@@ -1,6 +1,9 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 3-18-24  Deepsky Stack Upgrade
+So when doing my feb stacks, I had to install "deep sky stacker" on the new machine in fraser.  Stacking results had a big blue tint, and halos.  Went through the settings...when saving the final FTS file, you need to make sure you do *NOT* apply adjustments to saved files.
+
 # 10-16-23 Nighttime planets
 Had to do two takes through polar alignment...didn't tighten down one of the legs on the tripod, so when I raised it, the center of rotation had moved.   Took me a while to figure this one out.
 

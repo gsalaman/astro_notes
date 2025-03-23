@@ -1,7 +1,24 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
-# 3-18-24  Deepsky Stack Upgrade
+# 3-23-25 FOV calcs, planetary bent
+So if I wanted to get better planetary, the first tests would be with the TV-85 and the ZWO.  This would give me tracking and a better vid capture at the expense of "pixels".
+
+Need to play with the "planetary" app here in the daytime...can I stream vid?
+Also, can I get 2x barlow working?
+How about the 3x?
+I've already got the 4x powermate config....
+Updated the optics tab with the calcs...update here.
+
+So then, if I wanted to go better, I'd want to go something with a longer focal length.  The nexstar 8se has a 2032 FL, but only a 1.25" eyepiece.  
+with 533:
+206.265*3.76/2032 = .38 arcseconds/pixel…or 2.62 pixels per arc-second.
+Then, if you do a 2x barlow, that increases it to the ~5 pixels per arc-second.
+
+I should really try this with Dawsons…
+
+
+# 3-18-25 Deepsky Stack Upgrade
 So when doing my feb stacks, I had to install "deep sky stacker" on the new machine in fraser.  Stacking results had a big blue tint, and halos.  Went through the settings...when saving the final FTS file, you need to make sure you do *NOT* apply adjustments to saved files.
 
 # 10-16-23 Nighttime planets

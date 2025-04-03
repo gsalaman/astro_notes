@@ -1,6 +1,11 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+
+# 3-25-25 Planetary test
+Okay, did the 4x powermate on the televue.  Juptier was 36.8 arc-seconds diameter...my pic had a diameter of ~107 pixels.
+Theory says 3.1 arc-seconds/pixel * 36.8 = 114 pixels.  Pretty close!!!
+
 # 3-23-25 FOV calcs, planetary bent
 So if I wanted to get better planetary, the first tests would be with the TV-85 and the ZWO.  This would give me tracking and a better vid capture at the expense of "pixels".
 

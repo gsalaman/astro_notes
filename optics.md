@@ -10,7 +10,7 @@ So, on the TV-85 with the 533 cam:
 | prime | 1.29 | 0.0215 | ~65 arc-min square | 37 pixels |  | Confirmed with astrometry.net | 
 | 2x barlow | 0.645 | 1.5 | 32x32 arc-min  | ~75 pixels | | |
 | 3x barlow | 0.1 | 2.3 | 21x21 arc min | ~110 pixels |  | |
-| 4x powermate | .3225 | 3.1 | 16x16 arc min | ~150 pixels| | |
+| 4x powermate | .3225 | 3.1 | 16x16 arc min | ~150 pixels| | confirmed 3/25/25...but jupiter was only 36.8 arc seconds, so smaller |
 
 # T7 Optics
 | Setup | Pixels/Arcsecond | Arcseconds/pixel | FOV | Jupiter | Saturn | notes |

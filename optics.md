@@ -5,6 +5,17 @@ MATH:  206.265*(pixel size in um)/(fl in mm) = arc-seconds per pixel
 So, on the TV-85 with the 533 cam:  
 (206.265*3.76/600) = 1.29 arc-seconds per pixel.  3008x3008 pixels would give 3883 arc-seconds of view, or just over a degree.  That matches.  
 
+ 
+ | Setup | Pixels/Arcsecond | Arcseconds/pixel | FOV | Jupiter | Saturn | notes |
+ | ------ | ------- | ------- | ------- | ------- | ----- | ----- |
+ | prime | 1.29 | 0.0215 | ~65 arc-min square | 37 pixels |  | Confirmed with astrometry.net | 
+ | 2x barlow | 0.645 | 1.5 | 32x32 arc-min  | ~75 pixels | | |
+ | 3x barlow | 0.1 | 2.3 | 21x21 arc min | ~110 pixels |  | |
+ | 4x powermate | .3225 | 3.1 | 16x16 arc min | ~150 pixels| | confirmed 3/25/25...but jupiter was only 36.8 arc seconds, so smaller |
+ 
+ 
+ # ZWO 533 on Celestron Nexstar8
+
 | Setup | Pixels/Arcsecond | Arcseconds/pixel | FOV | Jupiter | Saturn | notes |
 | ------ | ------- | ------- | ------- | ------- | ----- | ----- |
 | prime | 2.62 | .38 | ~19 arc-min square | ~130  |  | calc at 50 arc seconds | 

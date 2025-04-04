@@ -10,7 +10,7 @@ So, on the TV-85 with the 533 cam:
  | ------ | ------- | ------- | ------- | ------- | ----- | ----- |
  | prime | 1.29 | 0.0215 | ~65 arc-min square | 37 pixels |  | Confirmed with astrometry.net | 
  | 2x barlow | 0.645 | 1.5 | 32x32 arc-min  | ~75 pixels | | |
- | 3x barlow | 0.1 | 2.3 | 21x21 arc min | ~110 pixels |  | |
+ | 3x barlow | 0.43 | 2.3 | 21x21 arc min | ~110 pixels |  | |
  | 4x powermate | .3225 | 3.1 | 16x16 arc min | ~150 pixels| | confirmed 3/25/25...but jupiter was only 36.8 arc seconds, so smaller |
  
  
@@ -22,16 +22,6 @@ So, on the TV-85 with the 533 cam:
 | 2x barlow | 5.14 | .19 | just under 10 arc-min square  | ~260 pixels | | |
 
 Note this may also be good for smaller targets...but then the 10 arc-sec of periodic error may (will) affect long exposure.
-
-
-# ZWO 533 on Celestron Nexstar8
-
-
-| Setup | Pixels/Arcsecond | Arcseconds/pixel | FOV | Jupiter | Saturn | notes |
-| ------ | ------- | ------- | ------- | ------- | ----- | ----- |
-| prime | 1.29 | 0.0215 | ~65 arc-min square | 37 pixels |  | Confirmed with astrometry.net | 
-| 2x barlow | 0.645 | 1.5 | 32x32 arc-min  | ~75 pixels | | |
-
 
 
 # T7 Optics

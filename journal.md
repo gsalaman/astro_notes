@@ -2,6 +2,19 @@
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
 
+# 4-5-25 Daytime celestron w/zwo
+Focus notes:   do 25mm with diagonal to get focus.
+
+ZWO, backed out about a finger is about the same focus point.
+
+Then, with 2x barlow, put 'em in all the way, and it's about the same focus point.
+
+Now, checking the post:
+Prime with ZWO:  1271 pixels.  
+
+2xBarlowed Prime with ZWO: 2907 pixels
+
+
 # 3-25-25 Planetary test
 Okay, did the 4x powermate on the televue.  Juptier was 36.8 arc-seconds diameter...my pic had a diameter of ~107 pixels.
 Theory says 3.1 arc-seconds/pixel * 36.8 = 114 pixels.  Pretty close!!!

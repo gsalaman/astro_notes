@@ -9,10 +9,14 @@ ZWO, backed out about a finger is about the same focus point.
 
 Then, with 2x barlow, put 'em in all the way, and it's about the same focus point.
 
-Now, checking the post:
+Now, checking the poles xpiece:
 Prime with ZWO:  1271 pixels.  
+2xBarlowed Prime with ZWO: 2907 pixels.  
 
-2xBarlowed Prime with ZWO: 2907 pixels
+It's 540 arc-seconds long.
+
+So, for Prime, we're at 2.35 pixels per arc-second.  Pure math says 2.62.  That's pretty close.  
+For barlowed prime, we're at 5.38 pixels per arc-second.  Pure math says 5.14.  Also pretty close.
 
 
 # 3-25-25 Planetary test

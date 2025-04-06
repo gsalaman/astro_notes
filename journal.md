@@ -1,6 +1,15 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 4-6-25 daytime focal reducer on the TV-85
+Tried my 1.25" reducer...but it's threaded for c.  :(  held it up to get a rough idea...I'm somewhere in the 75% range...but the spacing is all wrong.  Gonna go ahead and order the 2" version.
+
+# 4-5-25 Nighttime Jupiter
+First try with the Celestron Nexstar 8 on the iOptron, trying for jupiter from lafayette.
+Polar align easy.  Getting Jupiter centered challenging...but I don't have a finder yet.  Printing that bracket now.
+ZWO planetary works well.  White balance is key for color (inside sub-menu).  Generates a LOT of data.
+
+Size calcs work out...I'm a little more than 5 pixels per arc second.
 
 # 4-5-25 Daytime celestron w/zwo
 Focus notes:   do 25mm with diagonal to get focus.

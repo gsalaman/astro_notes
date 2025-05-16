@@ -1,6 +1,17 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 5-16-25 daytime focal reducer & barlow on TV-85
+
+Okay, did the 2" reducer.  It's M48 threads, so you have to do the narrow M42-to-M48 adapter first, then thread it in.  Filter wheel first, then camera with reducer all the way in.  Focus is racked almost all the way in as well.
+
+Baseline pic math:  crosspiece = 375 pixels.  Should be 540 arc-seconds.  FOV is about a degree...at 3008 pixels square, thats 3008 pixels = 60 arc minutes = 3600 arc seconds...so each pixel is ~1.2 arc seconds.  Multiply by 375 pixels, gives us 450 arc seconds for the cross-piece.  Hmmmm...maybe I have a different ople than usual.
+
+Now, looking at reducer, I want half the number of pixels.  Meausred:  213....or 56%.  Close.  
+
+Then, 2x barlow:  950 pixels.  Should be double...and it's 2.5.  Note:  had to up the exposure *SIGNIFICANTLY*...so I think using the bigger aperature of the celestron is the way to go to zoom in.
+
+
 # 4-6-25 daytime focal reducer on the TV-85
 Tried my 1.25" reducer...but it's threaded for c.  :(  held it up to get a rough idea...I'm somewhere in the 75% range...but the spacing is all wrong.  Gonna go ahead and order the 2" version.
 

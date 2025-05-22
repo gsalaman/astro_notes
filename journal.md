@@ -1,6 +1,19 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+
+# 5-21-25 Fraser with Amber
+Clouds on-again/off-again in the forecast.  Ended up saying clear...but we were dodging clouds all night.
+
+Started with Celestron.  Set zero-point to get stars in focus...took a bit to find the right spot.  Had to go all the way in, then rack it out.   Then align on vega (visual again) with the diagonal and 20mm eyepiece.  Then switch to ZWO.   Then we went to M104.  Tried ASTAP...it had trouble plate solving.  Put it into Nova...got it.  Had to futz with FOV (.33 degree), and it still didn't annotate stars well.  Did the hop with Nova...we were close.
+
+Image isn't as crisp with the celestron.  Took 30 frames; clouds hit a bunch, tracking hit a bunch.  Got clouded out, so we went in to stack.  DSS didn't find any stars (just like when I did whirlpool).  Instead of stacking by hand, we tried ASTAP's stacker.  Didn't do as well with the hot pixels, but got a decent image.
+
+Clouds started to thin, so we transistioned to the TV-85.  Re-align (including re-centering the finder) and refocus.  ASTAP plate solving worked MUCH better here...we were able to use the RA & DEC deltas to get us on object pretty quickly...without having to annotate stars!
+Took two batches of whirlpool.
+
+Then did M5...did a set of 30 ten-second exposures, then a set of 10 thirty-second exposures for comparison.  Stay tuned for how those two stacked...
+
 # 5-16-25 daytime focal reducer & barlow on TV-85
 
 Okay, did the 2" reducer.  It's M48 threads, so you have to do the narrow M42-to-M48 adapter first, then thread it in.  Filter wheel first, then camera with reducer all the way in.  Focus is racked almost all the way in as well.
@@ -9,7 +22,7 @@ Baseline pic math:  crosspiece = 375 pixels.  Should be 540 arc-seconds.  FOV is
 
 Now, looking at reducer, I want half the number of pixels.  Meausred:  213....or 56%.  Close.  
 
-Then, 2x barlow:  950 pixels.  Should be double...and it's 2.5.  Note:  had to up the exposure *SIGNIFICANTLY*...so I think using the bigger aperature of the celestron is the way to go to zoom in.
+Then, 2x barlow:  950 pixels.  Should be double...and it's 2.5.  Note:  had to up the exposure *SIGNIFICANTLY*...so I think using the bigger aperature of the celestron is the way to go to zoom in.  To get focus here, I needed to go filter wheel, then barlow in a fair amount (not so far you are hitting the wheel), then camera in about half.
 
 
 # 4-6-25 daytime focal reducer on the TV-85

@@ -1,6 +1,14 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 6-24/25  Processing the Veil
+Went through the various chapters on combining Ha and Oiii.  I *don't* like doing them as color channels.  Instead, I'm picking one of the two images to be "background", but then using masks to grab the appropriate pieces.  For the veil on 6/18, Ha was the one I'm using as background.  Steps:
+*  Use the "color picker" (select, color range, then pick the "plue" eyedropper) to get most of the red shades (for Ha) or green shades (for Oiii).
+*  Widen that selection (select, modify, expand) by somewhere 3-6 pixels.
+*  Feather the selection (select, modify, feather) by one third of what you did with the widen.
+*  You can then use that selection to tweak the colors in the "base" pic...and then cut out the selection for the one you'll put on top.  Get the colors right, then use opacity to make them slightly transparant, and blend it all together.
+
+Ta Da!!!
 
 # 5-21-25 Fraser with Amber
 Clouds on-again/off-again in the forecast.  Ended up saying clear...but we were dodging clouds all night.

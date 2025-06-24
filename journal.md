@@ -1,7 +1,7 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
-# 6-24/25  Processing the Veil
+# 6-24-25  Processing the Veil
 Went through the various chapters on combining Ha and Oiii.  I *don't* like doing them as color channels.  Instead, I'm picking one of the two images to be "background", but then using masks to grab the appropriate pieces.  For the veil on 6/18, Ha was the one I'm using as background.  Steps:
 *  Use the "color picker" (select, color range, then pick the "plue" eyedropper) to get most of the red shades (for Ha) or green shades (for Oiii).
 *  Widen that selection (select, modify, expand) by somewhere 3-6 pixels.

@@ -39,6 +39,14 @@ Note this may also be good for smaller targets...but then the 10 arc-sec of peri
 | 12" prime barlow | ~5.2 | | | ~250 pixels | ~215 (rings) | |
 | 18" Obsession | | | | | | |
 
+2/28/2026 Notes:
+So differences between the T7 and the ZWO533:
+T7 = 6k by 4k pixels.  Sensor size = 3.72um
+533:  3k by 3k pixels.  Sensor size is 3.76um
+
+If we don't change the scope, arc-seconds per pixel is only dependent on sensor size (from top of page)...and those two sensor sizes
+are really close!  BUT, since the ZWO gives 3k by 3k in "movie mode" and the T7 doesn't, that's probably the way to go.
+
 
 # Orion 10" dob
 1200mm focal length  
@@ -69,12 +77,6 @@ Saturn is currently 18.3 arcseconds...about 1/3 of an arc-minute.   May be too s
 
 10/21/20 Math:  
 Doing the full CCD calculation shows we're 15.72 arc minutes by 11.78 arc minutes...so for 4056x3020, that comes out to 4.3 pixels per arc second for both dimensions....still a little big.  Did a double check on the moon from 10/04; 6600 pixel diameter, ephemeris shows 1763 arc seconds...which gives 3.74 pixels per arc second.  
-
-2/28/26 Math:
-Canon T7 sensor is 22.3x14.9 mm
-That diagonal is 26.8mm
-
-With math above, FOV on the TV-85 would be 26.8x3000/600 = 134
 
 
 # iso

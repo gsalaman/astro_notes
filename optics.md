@@ -56,6 +56,12 @@ Max useful magnifiction:  2x254mm ~500x.  Seeing will definitly limit that.
 Mag = focal length / eyepiece mm.
 So for 32mm nagler, it's 37x.
 
+ # ZWO 533 on Photron6
+
+1370 fl means 0.566 arc seconds per pixel.  Jupiter at 50 arc seconds would be 88 pixels.  
+2x barlow here makes that 170ish.  
+
+
 # HQ cam chip specs
 6.287mm x 4.712mm (7.9mm diagonal)
 

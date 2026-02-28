@@ -61,6 +61,13 @@ So for 32mm nagler, it's 37x.
 1370 fl means 0.566 arc seconds per pixel.  Jupiter at 50 arc seconds would be 88 pixels.  
 2x barlow here makes that 170ish.  
 
+Note the celestron with 2x gives me 260 pixels...significantly better.    
+That 170 is worse than the 10" prime barlow (190) or the 12" prime barlow (250). 
+The only reason to go this way is (a) tracking and (b) better focuser.
+
+NOTE:  if you went Photron8, it *still* has a lower FL than the Celestron 8"...and would require you to upgrade mount as well.
+
+
 
 # HQ cam chip specs
 6.287mm x 4.712mm (7.9mm diagonal)

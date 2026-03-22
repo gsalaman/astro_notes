@@ -1,6 +1,15 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 3-22-26  Carbon-Star daytime tests
+Prime with ZWO:  use all extenders.  Focus is at all the way out...and cam extended.  
+Cross piece is ~875 pixels, ...and it's 540 arc-seconds long.  So, that's .61 arc-seconds per pixel.  Close to the .56 calc.
+
+Better way:  use the filter wheel (I think all 3 extenders?).  That way I'm only racked out about 2cm
+
+With power-mate:  need all extenders, and almost all the way racked out on focuser.  Cross-piece is 1795 pixels, or 3.3 pixels per arc second (or .3 arc-seconds per pixel)  Close to calc again.
+
+
 # 6-24-25  Processing the Veil
 Went through the various chapters on combining Ha and Oiii.  I *don't* like doing them as color channels.  Instead, I'm picking one of the two images to be "background", but then using masks to grab the appropriate pieces.  For the veil on 6/18, Ha was the one I'm using as background.  Steps:
 *  Use the "color picker" (select, color range, then pick the "plue" eyedropper) to get most of the red shades (for Ha) or green shades (for Oiii).

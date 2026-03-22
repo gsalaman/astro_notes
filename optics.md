@@ -13,6 +13,22 @@ So, on the TV-85 with the 533 cam:
  | 3x barlow | 0.43 | 2.3 | 21x21 arc min | ~110 pixels |  | |
  | 4x powermate | .3225 | 3.1 | 16x16 arc min | ~150 pixels| | confirmed 3/25/25...but jupiter was only 36.8 arc seconds, so smaller |
  
+# Apertura Carbon-star 6" RC
+
+Math:  
+533 cam:
+206.265 * 3.76 / 1377 = .56 arc seconds per pixel.  FOV for 3k would be 1690 arc seconds, or 28 arc-minutes...just under half a degree
+
+T7:  206.265 * 3.72 /1377 = .557 arc seconds per pixel...close to the 533.  FOV is 2228 x 3342 arc-seconds, or 37x55 arc minutes.
+
+| Setup | Pixels/Arcsecond | Arcseconds/pixel | FOV | Jupiter | Saturn | notes |
+| ------ | ------- | ------- | ------- | ------- | ----- | ----- |
+| prime ZWO | 1.78 | .56 | ~28 arc-min square | ~90  |  | calc at 50 arc seconds | 
+| 2x barlow ZWO|  |  | ~14 arc-min square  | ~180 pixels | | |
+| prime T7 |  | .557 | 37x55 arc min | | | |
+
+
+
  
  # ZWO 533 on Celestron Nexstar8
 

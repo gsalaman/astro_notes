@@ -1,6 +1,11 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 3-24-26  Quick nighttime before clouds
+Did some quick nighttime stuff before getting unexpectedly clouded in.
+
+Jupiter at prime:  82 pixels.  Ephemeris says 40 arc seconds....which gives me .487 arc seconds per pixel...or about 2 pixels per pixel.  That's close.
+
 # 3-22-26  Carbon-Star daytime tests
 Prime with ZWO:  use all extenders.  Focus is at all the way out...and cam extended.  
 Cross piece is ~875 pixels, ...and it's 540 arc-seconds long.  So, that's .61 arc-seconds per pixel.  Close to the .56 calc.

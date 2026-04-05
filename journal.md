@@ -1,6 +1,19 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 4-5-26 Daytime:  Carbonstar with powermates
+Found good config to screw in camera...see carbonstar.md.
+
+2x powermate:  smaller xpiece size: 470 pixels.
+If I call it .6 arc-seconds per pixel, that means it's about 280 arc-seconds long.
+
+Now, with the 4x powermate, that same xpiece is 961 pixels.  Makes sense, that's close to 2x.
+Which means I'm seeing about 4.8 pixels per arc-second.
+
+So tonight, Jupiter is supposed to be 38.4 arc seconds.  That means I should see about 184 pixels with the 4x powermate.
+
+This sounds too low...
+
 # 3-24-26  Quick nighttime before clouds
 Did some quick nighttime stuff before getting unexpectedly clouded in.
 

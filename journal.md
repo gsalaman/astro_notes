@@ -4,8 +4,8 @@ These are going to be my "raw photography" running notes...in reverse cron order
 # 4-5-26 Nighttime Carbonstar
 Started with jupiter.  Did an align on Sirius...used plate solve to get there.  Focus was a little tricky...need that mask, and I fought with the focuser all night...it was slipping.  Post analysis:  
 * There are two screws.
-** Top screw locks in the focuser.  Start with it all the way out.
-** Bottom screw is the tension.  Manual says snug it up, then do an extra quarter turn.  Daytime tests seem to be better.
+  * Top screw locks in the focuser.  Start with it all the way out.
+  * Bottom screw is the tension.  Manual says snug it up, then do an extra quarter turn.  Daytime tests seem to be better.
 
 May want to get the Rack-n-pinion rather than crawford (smooth rod driving it).  High point has it for $200.
 

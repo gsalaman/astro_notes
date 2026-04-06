@@ -24,7 +24,8 @@ T7:  206.265 * 3.72 /1377 = .557 arc seconds per pixel...close to the 533.  FOV 
 | Setup | Pixels/Arcsecond | Arcseconds/pixel | FOV | Jupiter | Saturn | notes |
 | ------ | ------- | ------- | ------- | ------- | ----- | ----- |
 | prime ZWO | 1.78 | .56 | ~28 arc-min square | ~90  |  | calc at 50 arc seconds | 
-| 2x barlow ZWO|  |  | ~14 arc-min square  | ~180 pixels | | |
+| 2x powermate ZWO| 3.3 |  | ~14 arc-min square  | ~128 pixels | | |
+| 4x powermate ZWO | ~6 |  |  | ~250 pixels | 8.3 arc minutes | 38 arc seconds | | about 6 pixels per arc-second!!! |
 | prime T7 |  | .557 | 37x55 arc min | | | |
 
 

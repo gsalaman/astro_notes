@@ -15,6 +15,13 @@ Next were galaxies...hamburger, 2903, and 81.  Switched back to std prime for th
 * Focus.  Need that mask and focuser to get crystal clear.  This led to lower number of stars, which meant I couldn't automatically stack the hamburger or 2903 (can do hand-align...may later)
 * Tracking.  Only able to use about half the exposures.  More mag means more suseptable to issues here.  Wondering whether doing either a guide scope or PEC will help.
 
+Finally, my sensor definitly has dust on it.  Did flat frames the next morning two ways:  
+* White paper over scope, ring light pointed at it.
+* Scope pointed at sky outside with paper.
+
+Did both calibrations...both seemed to work fine.  I really should get a light panel so that if I'm switching targets (and focuses) at night, I can do the flat frames then.
+
+
 # 4-5-26 Daytime:  Carbonstar with powermates
 Found good config to screw in camera...see carbonstar.md.
 

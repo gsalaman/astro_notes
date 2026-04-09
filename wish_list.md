@@ -32,6 +32,13 @@ This is gonna be my first investigation...can I run this with a decent camera?  
 
 So what's the focal length of the finder?  And can I remove the "X"?
 
+### Camera options
+Looking at two:
+[ZWO ASI120](https://www.highpointscientific.com/zwo-asi120mm-monochrome-mini-astronomy-camera-asi120mini?utm_campaign=&utm_content=&utm_source=google&utm_medium=cpc&utm_term=ZWO-ASI120MINI&utm_source=google&utm_medium=cpc&utm_campaign=22497821203&utm_content=&utm_term=&gad_source=1&gad_campaignid=22494385106&gbraid=0AAAAAD-khUaqULZRxjAUyIeBZgvUGBI1X&gclid=CjwKCAjwnN3OBhA8EiwAfpTYelCjn9if9RJKAt5Q79KeFddy9-KDEfiYqeSf9dPj8q4adB2ol63h2hoCEXkQAvD_BwE)
+This one is $180.  Only 60g.  3.75um pixels means with 200 FL we'd get ~3.8 arc seconds per pixel...should be good enough (as SW sensitivty should be 1/10 pixel)
+
+[ZWO ASI220](https://agenaastro.com/catalog/product/view/id/10237/s/zwo-asi220mm-mini-cmos-monochrome-astronomy-imaging-camera/?gad_source=1&gad_campaignid=17347706297&gbraid=0AAAAAD_aP9LEyEIBsFuru4h5G-P9RWUt0&gclid=CjwKCAjwnN3OBhA8EiwAfpTYehkyXMpS4lFTadQN8xa1a5BKTLZ37qxbPdRRCUdCinjjvbVDgnQ4ZhoC13kQAvD_BwE)
+This one is $270. Also 60g.  4um pixels means ~4 arc-seconds per pixel...a little bigger, but still decent...and that gives us a Larger FOV to find stars. 
 
 # OLD
 Current prios:

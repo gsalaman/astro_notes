@@ -4,6 +4,16 @@
 * Light panel for calibration
 
 ## Autoguide notes
+PHD2 is the recommended autoguide SW.  It can run under Mac and Windows.  There are two main configs:
+1) ST4 port.  This one is the less-recommended path...you go USB from the guide camera to the computer running PHD2, and then the camera talks ST4 to the mount.
+2) ASCOM support.  ASCOM is the common driver interface...you can use it to control the mount, this time NOT through the ST4 port, but through a USB on the bottom of the HDX hand controller.  In theory, you can integrate NINA and ASTAP to do auto plate solves and target acquisiton...and then PHD2 would send "pulse" commands to move the mount dirctly through that interface.
+
+Main issue with #2 is that it is windows only.  Okay, some folks say you can get it happy on mac, but that's a non-std config, so if I go that way, I need a seperate windows laptop.
+
+The auto-plate solve and target acquisition for #2 sounds cool though...would like to eventually get there. 
+
+I think I'm gonna start with #1...less software, but with a config that can go to #2.
+
 
 ### iOptron integrated
 [Link here](https://agenaastro.com/catalog/product/view/id/8605/s/ioptron-iguider-30mm-f-4-mini-guiding-scope-3361/?gad_source=1&gad_campaignid=17357599342&gbraid=0AAAAAD_aP9Lx4jLLkCHkjAcl20Z8gKzWA&gclid=CjwKCAjw-dfOBhAjEiwAq0RwIwEC0_ShPAzLehQ9UkYb61SWL1200-Au4nJKks6PpWhSh68I03dOxxoCGxUQAvD_BwE)
@@ -18,6 +28,9 @@ Options:
 
 
 ### Use exisiting finder?
+This is gonna be my first investigation...can I run this with a decent camera?  Make sure it has a guide port so that I can do either ST4 or Pulse with PHD2, and evolve it.  
+
+So what's the focal length of the finder?  And can I remove the "X"?
 
 
 # OLD

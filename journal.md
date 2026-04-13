@@ -2,10 +2,13 @@
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
 # 4-13-26 NINA installation notes
-1st want ASCOM platform itself.
-Then Nina.
+1st want ASCOM platform itself.  That needed .net which took a while.  
+Then Nina.  
 Then I did camera...started here:  
 [ZWO Downloads](https://www.zwoastro.com/layouts/download-desktop-app/)
+
+Did ASI Studio first and made sure I could talk to the camera like on the mac.  
+
 
 # 4-13-26 Focus Experiemnts, Lafayette
 # 4-5-26 Nighttime Carbonstar

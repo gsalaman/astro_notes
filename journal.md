@@ -7,7 +7,9 @@ Then Nina.
 Then I did camera...started here:  
 [ZWO Downloads](https://www.zwoastro.com/layouts/download-desktop-app/)
 
-Did ASI Studio first and made sure I could talk to the camera like on the mac.  
+Camera driver first, then did ASI Studio first and made sure I could talk to the camera like on the mac.  All happy.
+
+
 
 
 # 4-13-26 Focus Experiemnts, Lafayette

@@ -1,6 +1,13 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 4-13-26 NINA installation notes
+1st want ASCOM platform itself.
+Then Nina.
+Then I did camera...started here:  
+[ZWO Downloads](https://www.zwoastro.com/layouts/download-desktop-app/)
+
+# 4-13-26 Focus Experiemnts, Lafayette
 # 4-5-26 Nighttime Carbonstar
 Started with jupiter.  Did an align on Sirius...used plate solve to get there.  Focus was a little tricky...need that mask, and I fought with the focuser all night...it was slipping.  Post analysis:  
 * There are two screws.

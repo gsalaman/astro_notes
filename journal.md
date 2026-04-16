@@ -11,7 +11,7 @@ Plan was to do jupiter first...play with commander to see if I could slew betwee
 * First mistake...I didn't do Zero posiiton on the mount!!!  This meant I was off on sirius considerably.  Tried plate solving on PC, mostly worked...and used commander to slew.  Adjusted finder....that made things a little easier.
 * Had issues with sync to target...the hand controller and commander didn't seem to really be helping.  I'd let it get close, and then do finder....but when you are doing finder adjustements, you really wanna be using the hand controller rather than PC.
 * Focus check notes:  Airy disk didn't quite look concentric...my collimnation may be off.  Same for Bahtinov mask...one spike could be centered, but the other wasn't.
-* Then in the middle, ASIIMG was having trouble connecting to the 553.  Okay, fine, I wanna try and get this red spot transit.  Ended up bringing out the mac, and using that to get a focus on Sirius with the 4x, then jupiter, then some movies.  Curious how the processing goes...seeing was only 1.
+* Then in the middle, ASIIMG was having trouble connecting to the 553.  Okay, fine, I wanna try and get this red spot transit.  Ended up bringing out the mac, and using that to get a focus on Sirius with the 4x, then jupiter, then some movies.  Curious how the processing goes...seeing was only 2.
 
 Then it was time to play with Nina and the guide scope!!!  Put config back to prime on the 533.
 
@@ -40,10 +40,9 @@ Then I did camera...started here:
 
 Camera driver first, then did ASI Studio first and made sure I could talk to the camera like on the mac.  All happy.
 
-
-
-
 # 4-13-26 Focus Experiemnts, Lafayette
+
+
 # 4-5-26 Nighttime Carbonstar
 Started with jupiter.  Did an align on Sirius...used plate solve to get there.  Focus was a little tricky...need that mask, and I fought with the focuser all night...it was slipping.  Post analysis:  
 * There are two screws.

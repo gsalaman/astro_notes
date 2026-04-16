@@ -2,10 +2,28 @@
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
 
-# 4-15-26 Nightime setup nots
-1) iPolar on windows tends to "hide" windows.  I like the Mac version better.  But, no issues with calibration.  Put in the window center from the Mac, and it's nuts on.
-2) Not enough USB ports!  Now that I'm polar aligned, I'm gonna unplug iPolar and plug in commander.
-3) 
+# 4-15-26 Nightime in Lafayette:  switch to windows, Nina, and autoguiding.
+iPolar on windows tends to "hide" windows.  I like the Mac version better.  But, no issues with calibration.  Put in the window center from the Mac, and it's nuts on.  
+
+Windows PC doesn't have enough USB ports!  Two type C (power and mouse) and then 2 type A...and I need them for Camera, Mount, and iPolar.  For this session, once I got polar aligned, I unplugge iPolar and plug in commander.
+
+Plan was to do jupiter first...play with commander to see if I could slew between Sirius (for focus) and Jupiter...start with Prime, then do the 4x powermate.  Challenges here:
+* First mistake...I didn't do Zero posiiton on the mount!!!  This meant I was off on sirius considerably.  Tried plate solving on PC, mostly worked...and used commander to slew.  Adjusted finder....that made things a little easier.
+* Had issues with sync to target...the hand controller and commander didn't seem to really be helping.  I'd let it get close, and then do finder....but when you are doing finder adjustements, you really wanna be using the hand controller rather than PC.
+* Focus check notes:  Airy disk didn't quite look concentric...my collimnation may be off.  Same for Bahtinov mask...one spike could be centered, but the other wasn't.
+* Then in the middle, ASIIMG was having trouble connecting to the 553.  Okay, fine, I wanna try and get this red spot transit.  Ended up bringing out the mac, and using that to get a focus on Sirius with the 4x, then jupiter, then some movies.  Curious how the processing goes...seeing was only 1.
+
+Then it was time to play with Nina and the guide scope!!!  Put config back to prime on the 533.
+
+Started with doing a guide star and seeing if the Bahtinov analyser would do it's thing.  Had trouble dragging the window...didn't really see results.  Will need to check that later.  Did it by hand, but also still had issues with the spikes....one centered, one not.
+
+Then went through first light setup with guide scope in PHD2.  I like that it goes on the dovetail...easy attachment, and it's USB can plug into the USB hub on the 533.  
+
+Need to start and stop the guiding in PHD2 before the Nina sessions.  Workflow for a target, assuming you are focused:
+1) Pick object in planetarium.  
+
+
+
 # 4-13-26 NINA installation notes
 1st want ASCOM platform itself.  That needed .net which took a while.  
 Then Nina.  

@@ -20,7 +20,15 @@ Started with doing a guide star and seeing if the Bahtinov analyser would do it'
 Then went through first light setup with guide scope in PHD2.  I like that it goes on the dovetail...easy attachment, and it's USB can plug into the USB hub on the 533.  
 
 Need to start and stop the guiding in PHD2 before the Nina sessions.  Workflow for a target, assuming you are focused:
-1) Pick object in planetarium.  
+1) Go to imaging tab, and pick an exposure duration...something that'll give you enough stars for the plate solver to do it's thing.  I did 10s with the carbonstar...probably will need less with the TV.
+2) Pick object in planetarium.  This should give a "slew to target" button on the right.  There was a dialog (maybe in plate solver?) that said "slew after finding it".
+3) Now that you are in the area, you want to turn on your autoguiding.  Go into PHD2, loop for focus, and have it pick guide stars.  They say you should calibrate once at the beginning of the session, so do that if this is target #1.  Calibration takes a little bit...10 mintues or so?  After that, you should start to see the error graphs for RA and DEC.
+4) Then back to Nina, go to imaging tab, and play around with exposures until you get them the way you want.  I liked having "save" on here (so that I could use any good previews)...and probably wanna rename the "save" snapshot to match your "preview target"
+5) Now, back to planetarium, and you can add target to sequencer.  Jump to that tab.
+6) Fill in number of exposures and length.  Can turn dithering on here if you want...quick notes below.  You can also "reslew" to keep it centered, but I didn't do that.
+7) I like jumping back to the imaging tab here....and I've got it set up so that I can see the last pic, the guiding graphs, and the sequencer info.
+
+Notes on dithering...this adds a bunch of time to your image acquisition flow...before taking exposure, it does a dither movement and then waits for the mount to stabalize.  I had it off with 2903, but turned it on with M81...but clouds came in on M81, so I don't know how many exposures I got.  Will check if I think it made a noticable difference later.
 
 
 

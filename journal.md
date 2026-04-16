@@ -1,6 +1,11 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+
+# 4-15-26 Nightime setup nots
+1) iPolar on windows tends to "hide" windows.  I like the Mac version better.  But, no issues with calibration.  Put in the window center from the Mac, and it's nuts on.
+2) Not enough USB ports!  Now that I'm polar aligned, I'm gonna unplug iPolar and plug in commander.
+3) 
 # 4-13-26 NINA installation notes
 1st want ASCOM platform itself.  That needed .net which took a while.  
 Then Nina.  

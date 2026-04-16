@@ -19,6 +19,8 @@ Started with doing a guide star and seeing if the Bahtinov analyser would do it'
 
 Then went through first light setup with guide scope in PHD2.  I like that it goes on the dovetail...easy attachment, and it's USB can plug into the USB hub on the 533.  
 
+Focusing with the cam was tricky.  It's got a lock ring on the back, but you have to manually push and pull the camera in to get it close to perfect.  Then you can rotate the front and lock that in with another ring.  I first started by thinking I needed both extenders, but then no, wasn't able to quite get good focus, so I ended up with just one and the camera sticking most of the way out.  
+
 Need to start and stop the guiding in PHD2 before the Nina sessions.  Workflow for a target, assuming you are focused:
 1) Go to imaging tab, and pick an exposure duration...something that'll give you enough stars for the plate solver to do it's thing.  I did 10s with the carbonstar...probably will need less with the TV.
 2) Pick object in planetarium.  This should give a "slew to target" button on the right.  There was a dialog (maybe in plate solver?) that said "slew after finding it".

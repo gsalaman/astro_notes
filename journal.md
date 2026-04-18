@@ -1,6 +1,11 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 4-18-26 Focus and workflow notes
+First note:  still not enough stars for deepsky stacker.  Probably that focus issue, and maybe collimnation.  I'm printing a new Bahtinov that should fit better into my OTA...and I'm planning on printing a Tri-Bahtinov (with a cover) to check collimnation.
+
+Second note:  the 2903 stacks had significant noise/gradients.  Not sure if dithering would help...will try that next time (as the M81 image didn't have those issues)
+
 
 # 4-15-26 Nightime in Lafayette:  switch to windows, Nina, and autoguiding.
 iPolar on windows tends to "hide" windows.  I like the Mac version better.  But, no issues with calibration.  Put in the window center from the Mac, and it's nuts on.  
@@ -15,7 +20,7 @@ Plan was to do jupiter first...play with commander to see if I could slew betwee
 
 Then it was time to play with Nina and the guide scope!!!  Put config back to prime on the 533.
 
-Started with doing a guide star and seeing if the Bahtinov analyser would do it's thing.  Had trouble dragging the window...didn't really see results.  Will need to check that later.  Did it by hand, but also still had issues with the spikes....one centered, one not.
+Started with doing a guide star and seeing if the Bahtinov analyser would do it's thing.  Had trouble dragging the window...didn't really see results.  Will need to check that later.  Did it by hand, but also still had issues with the spikes....one centered, one not. *Post note*: looking at the Bahtinov output, I wasn't really centered on either.  Gonna wanna both look up a vid on the analyzer and do collimnation checks.
 
 Then went through first light setup with guide scope in PHD2.  I like that it goes on the dovetail...easy attachment, and it's USB can plug into the USB hub on the 533.  
 

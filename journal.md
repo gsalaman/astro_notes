@@ -4,6 +4,11 @@ These are going to be my "raw photography" running notes...in reverse cron order
 # 4-18-26 Focus and workflow notes
 First note:  still not enough stars for deepsky stacker.  Probably that focus issue, and maybe collimnation.  I'm printing a new Bahtinov that should fit better into my OTA...and I'm planning on printing a Tri-Bahtinov (with a cover) to check collimnation.
 
+Specs for bahtinov generator:
+* FL = 1377mm
+* Outer diameter of 172 maps to 150 aperature
+* Inner diameter of 66 maps to 78 central obstruction
+
 Second note:  the 2903 stacks had significant noise/gradients.  Not sure if dithering would help...will try that next time (as the M81 image didn't have those issues)
 
 

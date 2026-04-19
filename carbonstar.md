@@ -23,3 +23,15 @@ Daytime exposure needed:  about 40ms at 100 gain.
 Soooo....lets just try replacing the 2x with the 4x!!!
 Okay, not quite parafocal here, but still in range!!!
 Focus setting is about 32mm rather than 12.
+
+# Collimation Notes
+## Standard:
+Step 1:  make sure focuser is aligned.   Use laser, should hit center of secondary mirror mark.  See https://www.youtube.com/watch?v=2EC5N5bfB9A  
+Note:  may need collimation ring for focuser!  Also, check different focuser posions.  really want it at standard position.
+
+Step 2:  concentric rings, adjust secondary.  Can do spot with cheshire.
+
+Step 3:  measure rings on wall.  Use ruler.  Adjust primary with that.
+
+Okay, so main problem here:  can't get a concentric ring attachment!  Would barlow work?
+

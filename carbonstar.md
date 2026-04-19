@@ -28,6 +28,7 @@ Focus setting is about 32mm rather than 12.
 ## Standard:
 Step 1:  make sure focuser is aligned.   Use laser, should hit center of secondary mirror mark.  See https://www.youtube.com/watch?v=2EC5N5bfB9A  
 Note:  may need collimation ring for focuser!  Also, check different focuser posions.  really want it at standard position.
+4/19/26 note:  checked with my laser.  Looks pretty close...it's on the ring itself.  May not need tilt plate.  Same result if I'm all the way backed out...but obviously more suceptible to slop.
 
 Step 2:  concentric rings, adjust secondary.  Can do spot with cheshire.
 

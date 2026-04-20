@@ -1,6 +1,25 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 4-20-26 Planning
+Okay, I now have a good Bahtinov mask and a tri-bahtinov mask...ready to try some focus and collimation tests!  My list:
+0) Start guiding!
+1) Focus with mask, star centered.  Use analyzer program.  Take pic.
+2) Replace mask with tri-mask.  Use analyzer, take pic.  How are the center spikes?
+3) Remove mask and check Airy disk.  Take pic.
+4) Now, put baht back on.  Get focus, then move star to a corner of the image.  Did focus hold?  Take pic.
+5) switch to tri-mask.  take pic.  Same center spikes as #2?
+6) Remove mask, check airy disk.  Same as #3?
+
+Note...coma with #3 indicates on-axis misalign.  This is corrected with primary mirror adjustments.
+Astigmatisim with #6 indicates secondary mirror alignment.
+
+I'm guessing that the Tri-bhat mask will show #6 but not #3.
+
+Continuing:
+7) re-center star, achieve focus.  Remove mask
+8) Want to go somewhere with loads of stars....maybe M35 in Gemini?  Going to want a pic that shows on-and-off axis coma and astigmatism.
+
 # 4-18-26 Focus and workflow notes
 First note:  still not enough stars for deepsky stacker.  Probably that focus issue, and maybe collimnation.  I'm printing a new Bahtinov that should fit better into my OTA...and I'm planning on printing a Tri-Bahtinov (with a cover) to check collimnation.
 

@@ -16,8 +16,8 @@ Astigmatisim with #6 indicates secondary mirror alignment.
 
 I'm guessing that the Tri-bhat mask will show #6 but not #3.
 
-Continuing:
-7) re-center star, achieve focus.  Remove mask
+Continuing:  
+7) re-center star, achieve focus.  Remove mask  
 8) Want to go somewhere with loads of stars....maybe M35 in Gemini?  Going to want a pic that shows on-and-off axis coma and astigmatism.
 
 # 4-18-26 Focus and workflow notes

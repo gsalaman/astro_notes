@@ -1,6 +1,19 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+
+# 4-23-26 Random notes
+For dithering, want a shift of 10-30 pixels in the main camera...so we need to do some math for what shift in the guide corresponds to what shift in the main.
+
+For the Carbonstar, each pixel is .56 arc-seconds.  
+For the guide scope, we need to do some math:  
+The 220 guide camera has a pixel size of 4um; the guide scope has a 200mm, which corresponds to 206.265*4/200 = 4.1253 arc-seconds per pixel.
+Ratio:  7.36 to 1.  Which means I want to PHD2 dither by 2 pixels to get a ~15 pixel image shift.
+
+Now, same math for televue (for later):
+1.29 arc-seconds per pixel for TV-85 vs 4.123...giving about a 3.2/1 ratio...so the dither here wants to be 4-5 pixels on the guide cam to give a 12-16 pixel shift.
+
+
 # 4-20-26 Planning
 Okay, I now have a good Bahtinov mask and a tri-bahtinov mask...ready to try some focus and collimation tests!  My list:
 0) Start guiding!

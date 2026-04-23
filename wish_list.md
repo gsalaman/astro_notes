@@ -1,9 +1,15 @@
 # Wish List
-* Some sort of autoguiding
-* rack-n-pinion focuser for Carbonstar
-* Light panel for calibration
 
+* Light panel for calibration
+* Much better camera.
+* rack-n-pinion focuser for Carbonstar...maybe not needed.
+* rotator?  That's about $350 for the electronic version.  
+* Electric focuser?
+* Electric filter wheel?
+  
 ## Autoguide notes
+Short version:  did the 50mm Williams Optics with the 220 camera.  Very happy o the ioptron...still need to try it on the Televue.
+
 PHD2 is the recommended autoguide SW.  It can run under Mac and Windows.  There are two main configs:
 1) ST4 port.  This one is the less-recommended path...you go USB from the guide camera to the computer running PHD2, and then the camera talks ST4 to the mount.
 2) ASCOM support.  ASCOM is the common driver interface...you can use it to control the mount, this time NOT through the ST4 port, but through a USB on the bottom of the HDX hand controller.  In theory, you can integrate NINA and ASTAP to do auto plate solves and target acquisiton...and then PHD2 would send "pulse" commands to move the mount dirctly through that interface.

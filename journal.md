@@ -13,7 +13,9 @@ Ratio:  7.36 to 1.  Which means I want to PHD2 dither by 2 pixels to get a ~15 p
 Now, same math for televue (for later):
 1.29 arc-seconds per pixel for TV-85 vs 4.123...giving about a 3.2/1 ratio...so the dither here wants to be 4-5 pixels on the guide cam to give a 12-16 pixel shift.
 
-Notes:  Need to connect PHD2 at beginning of session...this will load my profile.  I'm curious whether I did that on the 20th...gonna check the dither pics.  Looks like my dither setting was 5 pixels on the guide, so that SHOULD give me a ~36 pixel image shift between dithered images.
+Notes:  Need to connect PHD2 at beginning of session...this will load my profile.  I'm curious whether I did that on the 20th...gonna check the dither pics.  Looks like my dither setting was 5 pixels on the guide, so that SHOULD give me a ~36 pixel image shift between dithered images.  CONFIRMED!!!!  
+
+
 
 # 4-20-26 Planning
 Okay, I now have a good Bahtinov mask and a tri-bahtinov mask...ready to try some focus and collimation tests!  My list:

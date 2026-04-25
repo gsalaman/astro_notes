@@ -1,7 +1,20 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 4-25-26 Planning
+Next good skies start on 5/6...gonna try and hit fraser then.  Targets:
+* Hickson 44 
+* Sombrero
+Alts:
+* 2903
+* Hamburger
 
+Before then, I've got a couple things I need to do:
+* Tweak focus on guide scope.  Printing out the Baht mask right now at Dawson.
+* Check collimation on the Carbonstar.  Last time was a little inconclusive...need a better night.
+* Check out guider on TV setup.
+* Play with Mosaics....preferablly on TV, but I could do carbonstar instead.
+  
 # 4-23-26 Random notes
 For dithering, want a shift of 10-30 pixels in the main camera...so we need to do some math for what shift in the guide corresponds to what shift in the main.
 

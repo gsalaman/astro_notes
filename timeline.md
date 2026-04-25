@@ -12,5 +12,7 @@
 
 2023_04  New Mount: skywatcher EQ mount.
 
+2020_12_25  New Camera:  Canon T7
+
 2020_11_03  New scope:  Celstron Travel scope
 

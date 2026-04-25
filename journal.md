@@ -12,6 +12,7 @@ Alts:
 
 Before then, I've got a couple things I need to do:
 * Tweak focus on guide scope.  Printing out the Baht mask right now at Dawson.
+* Do a guide calibration at the celestial equator.  Maybe check the analyzer to see what the errors look like beforehand.
 * Check collimation on the Carbonstar.  Last time was a little inconclusive...need a better night.
 * Check out guider on TV setup.
 * Play with Mosaics....preferablly on TV, but I could do carbonstar instead.

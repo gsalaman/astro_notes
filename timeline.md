@@ -4,6 +4,8 @@
 
 2026_03_22  New scope:  Apertura Carbonstar 6" RC
 
+2025_04_05  Started playing with the 8" Celestron SCT
+
 2023_07_13   New Mount: iOptron CEM2
 
 2023_05_23  New Camera:  ZWO ASI533MC pro

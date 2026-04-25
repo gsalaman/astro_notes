@@ -5,6 +5,7 @@ These are going to be my "raw photography" running notes...in reverse cron order
 Next good skies start on 5/6...gonna try and hit fraser then.  Targets:
 * Hickson 44 
 * Sombrero
+  
 Alts:
 * 2903
 * Hamburger

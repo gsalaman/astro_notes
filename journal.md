@@ -1,6 +1,31 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 5-2-26  Science!
+## Jupiter
+Started with Jupiter trying to get red spot.  Rough polar align, then just used finder to get sirius.  Aligned here, then moved to 4x...and then jumped to jupiter visually.  Fastest...got vids, but red spot was too close to edge to resolve.  Plus, seeing was only 2/5.
+
+## USB Hub
+Got disconnects from camera and unable to download when using the hub.  Didn't see a light on it...was it really powered?
+Ended up disconnecting iPolar, and using the 2 USB ports for camera and mount.
+
+## Collimation
+Used castor...it's pretty bright, but yeah, I think I dialed in the collimation visually.  Tool jumped around too much with the seeing, and adjusting the collimation screws on primary moves the image in the field, so had to keep recentering.  
+
+## Guidescope
+Used mask to lock in focus.  Spikes are a little dim...maybe a wider baht slit mask?
+Also manually slewed to Dec 0 and did calibration.  Curious if that's gonna stick between sessions.
+
+## Mosaic test
+Used Carbonstar to do a first-cut mosiac with the beehive.  "Determine camera rotation" seemed to be happy.  Grabbed a screen shot of the mosaic plan so I can check it...still need to stack, and then try various aligns.
+
+## Offset
+Ran with the low offset (5)...put my low points at "40", which should give me better dynamic range.  Will see if I can see a difference with the stackings.
+
+##  Hickson 44 practice
+Slewed and took 15 one-minute frames.  Lets see how it turns out...
+
+
 # 4-25-26 Planning
 Next good skies start on 5/6...gonna try and hit fraser then.  Targets:
 * Hickson 44 

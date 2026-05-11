@@ -9,6 +9,9 @@ Theories:
 * Guidescope pointing too "low" from main camera; pick up trees
 * Main issues happened after meridian flip...why did I need that?
 * General balance issues...I know I'm not balanced in Dec.  Causing gears to work harder, espcially when scope is more "horizontal"?
+
+Also, check dither pixels.  Hickson should be 4 guidescope....which is about 30 pixels.
+In the middle of M104, I went to 2 pixels guidescpoe...or about 15 pixels dither.  
   
 # 5-2-26  Science!
 ## Jupiter

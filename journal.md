@@ -1,6 +1,15 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 5-10-26 Fraser - H44, M104, M57, and some guide issues
+Quick overview:  H44 and M57 did fine guiding, but M104 had some issues.
+
+Theories:
+* Elasticity (wrong word) between guide scope and carbonstar
+* Guidescope pointing too "low" from main camera; pick up trees
+* Main issues happened after meridian flip...why did I need that?
+* General balance issues...I know I'm not balanced in Dec.  Causing gears to work harder, espcially when scope is more "horizontal"?
+  
 # 5-2-26  Science!
 ## Jupiter
 Started with Jupiter trying to get red spot.  Rough polar align, then just used finder to get sirius.  Aligned here, then moved to 4x...and then jumped to jupiter visually.  Fastest...got vids, but red spot was too close to edge to resolve.  Plus, seeing was only 2/5.

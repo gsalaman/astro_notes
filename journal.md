@@ -5,7 +5,7 @@ These are going to be my "raw photography" running notes...in reverse cron order
 Quick overview:  H44 and M57 did fine guiding, but M104 had some issues.
 
 Theories:
-* Elasticity (wrong word) between guide scope and carbonstar
+* Flexture between guide scope and carbonstar
 * Guidescope pointing too "low" from main camera; pick up trees
 * Main issues happened after meridian flip...why did I need that?
 * General balance issues...I know I'm not balanced in Dec.  Causing gears to work harder, espcially when scope is more "horizontal"?

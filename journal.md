@@ -1,6 +1,13 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 5-11-26 AM Checks
+* Get Flats.  Doesn't look like I need 'em, but just in case
+* check how guidescpoe is pointed wrt main scope.  How far off is it?
+* Check flexture.  Seems to be fine...probably not this.
+* Do a data point or two for the elevation profile.
+* Get back deck elevation profile.
+
 # 5-10-26 Fraser - H44, M104, M57, and some guide issues
 Quick overview:  H44 and M57 did fine guiding, but M104 had some issues.
 

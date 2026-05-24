@@ -1,7 +1,7 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
-# 5-23-26 Guider science
+# 5-23-26 Guider science - Lafayette
 Checking out two of the theories on why the 5/10 guiding wasn't happy.
 
 Started with same setup in fraser.  No tree issues.  Same problem with RMS:
@@ -10,7 +10,9 @@ Started with same setup in fraser.  No tree issues.  Same problem with RMS:
 Then did the counterweight.  Needed 2 of the 3 plates, and it's on the very nose of the scope.  Guiding much better:
 <img width="901" height="537" alt="Screenshot 2026-05-23 at 11 00 17 PM" src="https://github.com/user-attachments/assets/77eef1ae-ec52-42b0-96a6-9e4289abd709" />
 
-Did a couple quick pics to see how far off the guidescope was from the "main view".  
+Did a couple quick pics to see how far off the guidescope was from the "main view".  ASTAP analysis says I'm off by about a degree.  Quick photoshop check:  I'm 4.12 arc-seconds-per-pixel.  Center of the 1920x1080 is 960x540.  Center of sombrero (via photoshop ruler) is 897 pixels away...or just over 3600 arc seconds...which is a degree!!!!  Yay math!!!
+
+Took the opportunity to grab a bunch of M104, M51, and a couple moon pics.
 
 # 5-11-26 AM Checks
 * Get Flats.  Doesn't look like I need 'em, but just in case

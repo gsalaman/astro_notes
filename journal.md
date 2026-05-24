@@ -1,6 +1,17 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 5-23-26 Guider science
+Checking out two of the theories on why the 5/10 guiding wasn't happy.
+
+Started with same setup in fraser.  No tree issues.  Same problem with RMS:
+<img width="908" height="542" alt="Screenshot 2026-05-23 at 10 17 46 PM" src="https://github.com/user-attachments/assets/02145282-8600-4c8e-8c77-0ee08c314c4b" />
+
+Then did the counterweight.  Needed 2 of the 3 plates, and it's on the very nose of the scope.  Guiding much better:
+<img width="901" height="537" alt="Screenshot 2026-05-23 at 11 00 17 PM" src="https://github.com/user-attachments/assets/77eef1ae-ec52-42b0-96a6-9e4289abd709" />
+
+Did a couple quick pics to see how far off the guidescope was from the "main view".  
+
 # 5-11-26 AM Checks
 * Get Flats.  Doesn't look like I need 'em, but just in case
 * check how guidescpoe is pointed wrt main scope.  How far off is it?

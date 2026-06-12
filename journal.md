@@ -1,6 +1,19 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 6-11-26 Fraser 
+Goal tonight was to get trifid with the carbonstar.  Sky 5/5/3, but as of 9ish, had wispy clouds.  Set up optimisitcally anyways. 
+
+First issue was camera wasn't connecting to Nina....and wouldn't even connect with ASIStudio.  Updating ZWO drivers fixed it.
+
+Astro Twilight ended at 10:30ish; got everything set and calibrated and ready to go...but noticed that the trifid was still too low, so I started with M64.  Grabbed a bunch of pics of it until 11:30ish.  Occasional "waiting to settle"...but good RMS numbers...made sense, target was pretty high in the sky.
+
+Going to trifid, had messages about DEC backlash being too big...makes sense, had a few frames throughtout the evening with big RMS.  I was balanced pretty good; maybe just the "low target" thing?  Still, got what looks to be about 50/60 useable...stacking later.  (gotta go grab flats in a couple, and then stack)
+
+Other note:  focuser needed to be adjusted...but now I know the trick for tension, it's easy.  :)  I should also get that white panel so I don't have to do flats the following morning.
+
+Oh, and did one peek at M16...decent pillars!  Want to try this with the Ha...probably not tonight (as it'll be LOW), but in the queue for later in the summer.  I think I'll go straight filter (and no filter wheel), cause I wanna keep weight down.
+
 # 5-23-26 Guider science - Lafayette
 Checking out two of the theories on why the 5/10 guiding wasn't happy.
 

@@ -67,7 +67,7 @@ are really close!  BUT, since the ZWO gives 3k by 3k in "movie mode" and the T7 
 # Nikon DS50z ii
 | Setup | Pixels/Arcsecond | Arcseconds/pixel | FOV | Jupiter | Saturn | notes |
 | ------ | ------- | ------- | ------- | ------- | ----- | ----- |
-| 16 mm |   | -- | --- | | | astrometry.net calc | 
+| 16 mm |   | 164 | 57.7x55.6 deg | | | astrometry.net calc | 
 | 50 mm |  | 17.5 | 27.1 deg x 18 deg | | | nova.astronmetry.net calc |
 
 

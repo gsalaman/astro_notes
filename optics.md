@@ -64,6 +64,12 @@ T7 = 6k by 4k pixels.  Sensor size = 3.72um
 If we don't change the scope, arc-seconds per pixel is only dependent on sensor size (from top of page)...and those two sensor sizes
 are really close!  BUT, since the ZWO gives 3k by 3k in "movie mode" and the T7 doesn't, that's probably the way to go.
 
+# Nikon DS50z ii
+| Setup | Pixels/Arcsecond | Arcseconds/pixel | FOV | Jupiter | Saturn | notes |
+| ------ | ------- | ------- | ------- | ------- | ----- | ----- |
+| 16 mm |   | -- | --- | | | astrometry.net calc | 
+| 50 mm |  | 17.5 | 27.1 deg x 18 deg | | | nova.astronmetry.net calc |
+
 
 # Orion 10" dob
 1200mm focal length  

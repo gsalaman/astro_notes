@@ -1,6 +1,17 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 8-1-26 First light with seestar
+Although we're just past new moon, I wanted to play with this thing.  Did some pics of the moon and M51.
+
+Frame resolution is 2160 pix by 3840.
+Moon is about 2000 pixels diameter...and it's 30 arc minutes (ish).  Math:  30 arc minutes = 1800 arc seconds, so that's just under an arc secon per pixel.  
+Note:  i think that's digial zoom.  When I look at the pic, it's pretty blury at the pixel level.
+
+Checked out whirlpool...same frame size, and it's about 130 pixels across.  It's 660 arc seconds across...which puts us at about 5 arc seconds per pixel.  Hmmmm....why different?  Wonder if there's a zoom setting.
+Specs say around 4...close enough
+
+
 # 6-11-26 Fraser 
 Goal tonight was to get trifid with the carbonstar.  Sky 5/5/3, but as of 9ish, had wispy clouds.  Set up optimisitcally anyways. 
 

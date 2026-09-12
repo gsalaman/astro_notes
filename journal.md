@@ -6,6 +6,7 @@ Twofold goals tonight:
 1) get a mosaic of the Andromeda Galaxy
 2) see if the seestar can do good on the veil!
 
+## Andromeda
 Started by setting up the televue with the guidescope...first time doing that!  One issue...the mount point I had interferes with 
 the key to adjust fwd/back balance.  Had to remove the finder (fine, plate solving is doing great, thanks!), but then got it nuts on.
 
@@ -14,7 +15,20 @@ so that I don't have to deal with that....and maybe even a threaded one!!  Howev
 
 3x2 panels seemed to frame it well (with the right rotation so Andromeda is going diagonally).  Exposure of 20s looks like it'll do well...so I had everything set.  Then, in came the clouds.  :(  They were wispy, but definitly interfered with the guider.  Only got 6 outta 21 decent pics, and kept bouncing back and forth re-enabling the guider.  
 
-Want to check dithering...I don't think I need a separate config for carbonstar vs televue in PHD2.  Nina was set to dither...I think 4 pixels?  And I was seeing 12 pixel shifts in the images.  
+Want to check dithering...I don't think I need a separate config for carbonstar vs televue in PHD2.  Nina was set to dither...I think 4 pixels?  And I was seeing 12 pixel shifts in the images.  Looking at my notes below for 4/23/26, that's what I want.  
+
+## Seestar
+So whilst all this was happening, I put the seestar on the back deck on a stool, and said grab the veil.  With the constellation icon on the bottom-right, you can reposition....and reading online, people prefer doing mosaics *NOT* in Seestar's software, but rather in a seperate image stacking program.  Next task:  download wed night's andromeda and swan raw frames, and see how OTASP does!  Yes, there won't be darks or flats...but I *may* be able to get both...gonna have to check the settings and see if it's doable.  
+
+# 9/9/26 - Lafayette, Swan for Amber, and Seestar experiments
+Goals for tonight:  get some good swan pics for Amber, and play with the seestar.
+
+Used the UHC filter for the swan on the carbonstar...note that it has to screw in between the apertura adapter closest to the focuser and the rings of the camera extender....and to make focus easier, take off one of those rings.  Good pics there!
+
+For the seestar, did andromeda...good framing there!  It SAYS you can rotate, but on playing later, I'm not sure what that's actually doing...may build a mosaic around the rotation?  It's base stacks are pretty good...gonna play with pulling 'em down and stacking in ASTAP just to see the difference.
+
+M17 also did okay...but yeah, it's a wide FOV.  Not as much detail as with the Carbonstar...gonna try stacking those in ASTAP as well.  Oh, and it has a built-in nebula filter.
+
 
 # 8-1-26 First light with seestar
 Although we're just past new moon, I wanted to play with this thing.  Did some pics of the moon and M51.

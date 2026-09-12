@@ -20,7 +20,7 @@ Want to check dithering...I don't think I need a separate config for carbonstar 
 ## Seestar
 So whilst all this was happening, I put the seestar on the back deck on a stool, and said grab the veil.  With the constellation icon on the bottom-right, you can reposition....and reading online, people prefer doing mosaics *NOT* in Seestar's software, but rather in a seperate image stacking program.  Next task:  download wed night's andromeda and swan raw frames, and see how OTASP does!  Yes, there won't be darks or flats...but I *may* be able to get both...gonna have to check the settings and see if it's doable.  
 
-# 9/9/26 - Lafayette, Swan for Amber, and Seestar experiments
+# 9/8/26 - Lafayette, Swan for Amber, and Seestar experiments
 Goals for tonight:  get some good swan pics for Amber, and play with the seestar.
 
 Used the UHC filter for the swan on the carbonstar...note that it has to screw in between the apertura adapter closest to the focuser and the rings of the camera extender....and to make focus easier, take off one of those rings.  Good pics there!

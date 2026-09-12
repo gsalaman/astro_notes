@@ -18,7 +18,7 @@ so that I don't have to deal with that....and maybe even a threaded one!!  Howev
 Want to check dithering...I don't think I need a separate config for carbonstar vs televue in PHD2.  Nina was set to dither...I think 4 pixels?  And I was seeing 12 pixel shifts in the images.  Looking at my notes below for 4/23/26, that's what I want.  
 
 ## Seestar
-So whilst all this was happening, I put the seestar on the back deck on a stool, and said grab the veil.  With the constellation icon on the bottom-right, you can reposition....and reading online, people prefer doing mosaics *NOT* in Seestar's software, but rather in a seperate image stacking program.  Next task:  download wed night's andromeda and swan raw frames, and see how OTASP does!  Yes, there won't be darks or flats...but I *may* be able to get both...gonna have to check the settings and see if it's doable.  
+So whilst all this was happening, I put the seestar on the back deck on a stool, and said grab the veil.  With the constellation icon on the bottom-right, you can reposition....and reading online, people prefer doing mosaics *NOT* in Seestar's software, but rather in a seperate image stacking program.  Next task:  download tuesday night's andromeda and swan raw frames, and see how OTASP does!  Yes, there won't be darks or flats...but I *may* be able to get both...gonna have to check the settings and see if it's doable.  
 
 # 9/8/26 - Lafayette, Swan for Amber, and Seestar experiments
 Goals for tonight:  get some good swan pics for Amber, and play with the seestar.

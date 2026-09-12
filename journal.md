@@ -1,6 +1,21 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 9-11-26 Fraser - Failed Mosiac, playing more with seestar
+Twofold goals tonight:
+1) get a mosaic of the Andromeda Galaxy
+2) see if the seestar can do good on the veil!
+
+Started by setting up the televue with the guidescope...first time doing that!  One issue...the mount point I had interferes with 
+the key to adjust fwd/back balance.  Had to remove the finder (fine, plate solving is doing great, thanks!), but then got it nuts on.
+
+Config without filter wheel on the televue means the camera is backed out just a smidge.  Wanna look at getting a longer extender
+so that I don't have to deal with that....and maybe even a threaded one!!  However, doing camera rotation to set up the mosaic is much easier here...I just undid the two screws on the base of the extender (so as to not mess up the focus), and rotated it...kept cycling through Nina's "check camera rotation" until I got it where I wanted it.  
+
+3x2 panels seemed to frame it well (with the right rotation so Andromeda is going diagonally).  Exposure of 20s looks like it'll do well...so I had everything set.  Then, in came the clouds.  :(  They were wispy, but definitly interfered with the guider.  Only got 6 outta 21 decent pics, and kept bouncing back and forth re-enabling the guider.  
+
+Want to check dithering...I don't think I need a separate config for carbonstar vs televue in PHD2.  Nina was set to dither...I think 4 pixels?  And I was seeing 12 pixel shifts in the images.  
+
 # 8-1-26 First light with seestar
 Although we're just past new moon, I wanted to play with this thing.  Did some pics of the moon and M51.
 

@@ -8,4 +8,8 @@ Next try:  save all 6 panels as pngs, then bring into photoshop to crop.  Pass t
 
 Hey, wait, before I try that, ASTAP says there's a "crop image" function in the stack tab.  Trying that first, so that I can stack the FITS.  Also turned off "equalize background".  5% crop (based on my PNG math), and then merge backgrounds on, limit background correction on.
 
+Heh.  Nope.  That's officially crap.
+
+Turning back on equalize background, doing 5% crop again.
+JUST equalizing background.
 

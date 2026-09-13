@@ -6,3 +6,6 @@ Okay, so I've got 6 panels of M31.  Each stacked, flat-and-dark calibrated in AS
 
 Next try:  save all 6 panels as pngs, then bring into photoshop to crop.  Pass the resultant PNGs back to ASTAP.
 
+Hey, wait, before I try that, ASTAP says there's a "crop image" function in the stack tab.  Trying that first, so that I can stack the FITS.  Also turned off "equalize background".  5% crop (based on my PNG math), and then merge backgrounds on, limit background correction on.
+
+

@@ -13,3 +13,5 @@ Heh.  Nope.  That's officially crap.
 Turning back on equalize background, doing 5% crop again.
 JUST equalizing background.
 
+Closer.  The issue is that panel 2 is significantly DARKER than the other panels. I'm gonna try hand-aligning in photoshop...and see if I can get the curve adjusts close.
+

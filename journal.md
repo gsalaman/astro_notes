@@ -1,6 +1,20 @@
 # Intro
 These are going to be my "raw photography" running notes...in reverse cron order (latest on top).
 ******
+# 9-12-26 Fraser Mosaic take 2, more seestar
+Challenging observing night.  At first, didn't think it was gonna be clear...but at 9:30ish, things looked good, so I set up.
+
+First issue:  Discord on Laptop no longer connected.  :(  Fought with that a little, including a windows update, but then said "fine, I just won't have remote monitoring".
+
+Second:  Whilst setting up, one of the tripod legs collapsed...didn't have it screwed in as tight as it needed to be.  This broke the dovetail connector on the guidescope...spent some time trying to superglue (didn't work) and align with rubber bands...but that also messed up the focus on it.  Just couldn't get it to work, so gave up on guiding for the night.
+
+Note that also scraped up my connectors on the 533...but I think that's just cosmetic...seems to be aligned fine still.
+
+Grabbed the 6 mosaic panels...40 each of 20 seconds.  Look decent, but first mosaic combine didn't look like I wanted.  More above as I play with it.
+
+In parallel, I grabbed two sets of seestar frames...one with the eastern veil, and one with the witch's broom and pickarings triangle.  Will be interesting to see how those turn out.
+
+
 # 9-11-26 Fraser - Failed Mosiac, playing more with seestar
 Twofold goals tonight:
 1) get a mosaic of the Andromeda Galaxy
